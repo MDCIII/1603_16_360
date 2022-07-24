@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Aceh"@eng-Latn ;
-    wdata:q7200235 "ID11" ;
+    wdata:Q7200235 "ID11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -78,7 +78,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sumatera Utara"@eng-Latn ;
-    wdata:q7200235 "ID12" ;
+    wdata:Q7200235 "ID12" ;
 .
 
 <urn:mdciii:1603:16:360:1:13>
@@ -89,7 +89,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sumatera Barat"@eng-Latn ;
-    wdata:q7200235 "ID13" ;
+    wdata:Q7200235 "ID13" ;
 .
 
 <urn:mdciii:1603:16:360:1:14>
@@ -100,7 +100,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Riau"@eng-Latn ;
-    wdata:q7200235 "ID14" ;
+    wdata:Q7200235 "ID14" ;
 .
 
 <urn:mdciii:1603:16:360:1:15>
@@ -111,7 +111,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Jambi"@eng-Latn ;
-    wdata:q7200235 "ID15" ;
+    wdata:Q7200235 "ID15" ;
 .
 
 <urn:mdciii:1603:16:360:1:16>
@@ -122,7 +122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sumatera Selatan"@eng-Latn ;
-    wdata:q7200235 "ID16" ;
+    wdata:Q7200235 "ID16" ;
 .
 
 <urn:mdciii:1603:16:360:1:17>
@@ -133,7 +133,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Bengkulu"@eng-Latn ;
-    wdata:q7200235 "ID17" ;
+    wdata:Q7200235 "ID17" ;
 .
 
 <urn:mdciii:1603:16:360:1:18>
@@ -144,7 +144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Lampung"@eng-Latn ;
-    wdata:q7200235 "ID18" ;
+    wdata:Q7200235 "ID18" ;
 .
 
 <urn:mdciii:1603:16:360:1:19>
@@ -155,7 +155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kepulauan Bangka Belitung"@eng-Latn ;
-    wdata:q7200235 "ID19" ;
+    wdata:Q7200235 "ID19" ;
 .
 
 <urn:mdciii:1603:16:360:1:21>
@@ -166,7 +166,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:21" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kepulauan Riau"@eng-Latn ;
-    wdata:q7200235 "ID21" ;
+    wdata:Q7200235 "ID21" ;
 .
 
 <urn:mdciii:1603:16:360:1:31>
@@ -177,7 +177,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:31" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Dki Jakarta"@eng-Latn ;
-    wdata:q7200235 "ID31" ;
+    wdata:Q7200235 "ID31" ;
 .
 
 <urn:mdciii:1603:16:360:1:32>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:32" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Jawa Barat"@eng-Latn ;
-    wdata:q7200235 "ID32" ;
+    wdata:Q7200235 "ID32" ;
 .
 
 <urn:mdciii:1603:16:360:1:33>
@@ -199,7 +199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:33" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Jawa Tengah"@eng-Latn ;
-    wdata:q7200235 "ID33" ;
+    wdata:Q7200235 "ID33" ;
 .
 
 <urn:mdciii:1603:16:360:1:34>
@@ -210,7 +210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:34" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Daerah Istimewa Yogyakarta"@eng-Latn ;
-    wdata:q7200235 "ID34" ;
+    wdata:Q7200235 "ID34" ;
 .
 
 <urn:mdciii:1603:16:360:1:35>
@@ -221,7 +221,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:35" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Jawa Timur"@eng-Latn ;
-    wdata:q7200235 "ID35" ;
+    wdata:Q7200235 "ID35" ;
 .
 
 <urn:mdciii:1603:16:360:1:36>
@@ -232,7 +232,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:36" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Banten"@eng-Latn ;
-    wdata:q7200235 "ID36" ;
+    wdata:Q7200235 "ID36" ;
 .
 
 <urn:mdciii:1603:16:360:1:51>
@@ -243,7 +243,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:51" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Bali"@eng-Latn ;
-    wdata:q7200235 "ID51" ;
+    wdata:Q7200235 "ID51" ;
 .
 
 <urn:mdciii:1603:16:360:1:52>
@@ -254,7 +254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:52" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Nusa Tenggara Barat"@eng-Latn ;
-    wdata:q7200235 "ID52" ;
+    wdata:Q7200235 "ID52" ;
 .
 
 <urn:mdciii:1603:16:360:1:53>
@@ -265,7 +265,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:53" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Nusa Tenggara Timur"@eng-Latn ;
-    wdata:q7200235 "ID53" ;
+    wdata:Q7200235 "ID53" ;
 .
 
 <urn:mdciii:1603:16:360:1:61>
@@ -276,7 +276,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:61" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kalimantan Barat"@eng-Latn ;
-    wdata:q7200235 "ID61" ;
+    wdata:Q7200235 "ID61" ;
 .
 
 <urn:mdciii:1603:16:360:1:62>
@@ -287,7 +287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:62" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kalimantan Tengah"@eng-Latn ;
-    wdata:q7200235 "ID62" ;
+    wdata:Q7200235 "ID62" ;
 .
 
 <urn:mdciii:1603:16:360:1:63>
@@ -298,7 +298,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:63" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kalimantan Selatan"@eng-Latn ;
-    wdata:q7200235 "ID63" ;
+    wdata:Q7200235 "ID63" ;
 .
 
 <urn:mdciii:1603:16:360:1:64>
@@ -309,7 +309,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:64" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kalimantan Timur"@eng-Latn ;
-    wdata:q7200235 "ID64" ;
+    wdata:Q7200235 "ID64" ;
 .
 
 <urn:mdciii:1603:16:360:1:65>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:65" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Kalimantan Utara"@eng-Latn ;
-    wdata:q7200235 "ID65" ;
+    wdata:Q7200235 "ID65" ;
 .
 
 <urn:mdciii:1603:16:360:1:71>
@@ -331,7 +331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:71" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sulawesi Utara"@eng-Latn ;
-    wdata:q7200235 "ID71" ;
+    wdata:Q7200235 "ID71" ;
 .
 
 <urn:mdciii:1603:16:360:1:72>
@@ -342,7 +342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:72" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sulawesi Tengah"@eng-Latn ;
-    wdata:q7200235 "ID72" ;
+    wdata:Q7200235 "ID72" ;
 .
 
 <urn:mdciii:1603:16:360:1:73>
@@ -353,7 +353,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:73" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sulawesi Selatan"@eng-Latn ;
-    wdata:q7200235 "ID73" ;
+    wdata:Q7200235 "ID73" ;
 .
 
 <urn:mdciii:1603:16:360:1:74>
@@ -364,7 +364,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:74" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sulawesi Tenggara"@eng-Latn ;
-    wdata:q7200235 "ID74" ;
+    wdata:Q7200235 "ID74" ;
 .
 
 <urn:mdciii:1603:16:360:1:75>
@@ -375,7 +375,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:75" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Gorontalo"@eng-Latn ;
-    wdata:q7200235 "ID75" ;
+    wdata:Q7200235 "ID75" ;
 .
 
 <urn:mdciii:1603:16:360:1:76>
@@ -386,7 +386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:76" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Sulawesi Barat"@eng-Latn ;
-    wdata:q7200235 "ID76" ;
+    wdata:Q7200235 "ID76" ;
 .
 
 <urn:mdciii:1603:16:360:1:81>
@@ -397,7 +397,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:81" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Maluku"@eng-Latn ;
-    wdata:q7200235 "ID81" ;
+    wdata:Q7200235 "ID81" ;
 .
 
 <urn:mdciii:1603:16:360:1:82>
@@ -408,7 +408,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:82" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Maluku Utara"@eng-Latn ;
-    wdata:q7200235 "ID82" ;
+    wdata:Q7200235 "ID82" ;
 .
 
 <urn:mdciii:1603:16:360:1:91>
@@ -419,7 +419,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:91" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Papua Barat"@eng-Latn ;
-    wdata:q7200235 "ID91" ;
+    wdata:Q7200235 "ID91" ;
 .
 
 <urn:mdciii:1603:16:360:1:94>
@@ -430,6 +430,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:360:1:94" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:360:0> ;
     skos:prefLabel "Papua"@eng-Latn ;
-    wdata:q7200235 "ID94" ;
+    wdata:Q7200235 "ID94" ;
 .
 

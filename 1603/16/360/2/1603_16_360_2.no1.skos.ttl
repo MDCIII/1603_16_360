@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:360()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1101" ;
     skos:prefLabel "Simeulue"@eng-Latn ;
-    wdata:q7200235 "ID1101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -561,7 +559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1102" ;
     skos:prefLabel "Aceh Singkil"@eng-Latn ;
-    wdata:q7200235 "ID1102" ;
 .
 
 <urn:mdciii:1603:16:360:2:1103>
@@ -570,7 +567,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1103" ;
     skos:prefLabel "Aceh Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1103" ;
 .
 
 <urn:mdciii:1603:16:360:2:1104>
@@ -579,7 +575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1104" ;
     skos:prefLabel "Aceh Tenggara"@eng-Latn ;
-    wdata:q7200235 "ID1104" ;
 .
 
 <urn:mdciii:1603:16:360:2:1105>
@@ -588,7 +583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1105" ;
     skos:prefLabel "Aceh Timur"@eng-Latn ;
-    wdata:q7200235 "ID1105" ;
 .
 
 <urn:mdciii:1603:16:360:2:1106>
@@ -597,7 +591,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1106" ;
     skos:prefLabel "Aceh Tengah"@eng-Latn ;
-    wdata:q7200235 "ID1106" ;
 .
 
 <urn:mdciii:1603:16:360:2:1107>
@@ -606,7 +599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1107" ;
     skos:prefLabel "Aceh Barat"@eng-Latn ;
-    wdata:q7200235 "ID1107" ;
 .
 
 <urn:mdciii:1603:16:360:2:1108>
@@ -615,7 +607,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1108" ;
     skos:prefLabel "Aceh Besar"@eng-Latn ;
-    wdata:q7200235 "ID1108" ;
 .
 
 <urn:mdciii:1603:16:360:2:1109>
@@ -624,7 +615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1109" ;
     skos:prefLabel "Pidie"@eng-Latn ;
-    wdata:q7200235 "ID1109" ;
 .
 
 <urn:mdciii:1603:16:360:2:1110>
@@ -633,7 +623,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1110" ;
     skos:prefLabel "Bireuen"@eng-Latn ;
-    wdata:q7200235 "ID1110" ;
 .
 
 <urn:mdciii:1603:16:360:2:1111>
@@ -642,7 +631,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1111" ;
     skos:prefLabel "Aceh Utara"@eng-Latn ;
-    wdata:q7200235 "ID1111" ;
 .
 
 <urn:mdciii:1603:16:360:2:1112>
@@ -651,7 +639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1112" ;
     skos:prefLabel "Aceh Barat Daya"@eng-Latn ;
-    wdata:q7200235 "ID1112" ;
 .
 
 <urn:mdciii:1603:16:360:2:1113>
@@ -660,7 +647,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1113" ;
     skos:prefLabel "Gayo Lues"@eng-Latn ;
-    wdata:q7200235 "ID1113" ;
 .
 
 <urn:mdciii:1603:16:360:2:1114>
@@ -669,7 +655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1114" ;
     skos:prefLabel "Aceh Tamiang"@eng-Latn ;
-    wdata:q7200235 "ID1114" ;
 .
 
 <urn:mdciii:1603:16:360:2:1115>
@@ -678,7 +663,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1115" ;
     skos:prefLabel "Nagan Raya"@eng-Latn ;
-    wdata:q7200235 "ID1115" ;
 .
 
 <urn:mdciii:1603:16:360:2:1116>
@@ -687,7 +671,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1116" ;
     skos:prefLabel "Aceh Jaya"@eng-Latn ;
-    wdata:q7200235 "ID1116" ;
 .
 
 <urn:mdciii:1603:16:360:2:1117>
@@ -696,7 +679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1117" ;
     skos:prefLabel "Bener Meriah"@eng-Latn ;
-    wdata:q7200235 "ID1117" ;
 .
 
 <urn:mdciii:1603:16:360:2:1118>
@@ -705,7 +687,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1118" ;
     skos:prefLabel "Pidie Jaya"@eng-Latn ;
-    wdata:q7200235 "ID1118" ;
 .
 
 <urn:mdciii:1603:16:360:2:1171>
@@ -714,7 +695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1171" ;
     skos:prefLabel "Kota Banda Aceh"@eng-Latn ;
-    wdata:q7200235 "ID1171" ;
 .
 
 <urn:mdciii:1603:16:360:2:1172>
@@ -723,7 +703,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1172" ;
     skos:prefLabel "Kota Sabang"@eng-Latn ;
-    wdata:q7200235 "ID1172" ;
 .
 
 <urn:mdciii:1603:16:360:2:1173>
@@ -732,7 +711,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1173" ;
     skos:prefLabel "Kota Langsa"@eng-Latn ;
-    wdata:q7200235 "ID1173" ;
 .
 
 <urn:mdciii:1603:16:360:2:1174>
@@ -741,7 +719,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1174" ;
     skos:prefLabel "Kota Lhokseumawe"@eng-Latn ;
-    wdata:q7200235 "ID1174" ;
 .
 
 <urn:mdciii:1603:16:360:2:1175>
@@ -750,7 +727,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1175" ;
     skos:prefLabel "Kota Subulussalam"@eng-Latn ;
-    wdata:q7200235 "ID1175" ;
 .
 
 <urn:mdciii:1603:16:360:2:1201>
@@ -759,7 +735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1201" ;
     skos:prefLabel "Nias"@eng-Latn ;
-    wdata:q7200235 "ID1201" ;
 .
 
 <urn:mdciii:1603:16:360:2:1202>
@@ -768,7 +743,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1202" ;
     skos:prefLabel "Mandailing Natal"@eng-Latn ;
-    wdata:q7200235 "ID1202" ;
 .
 
 <urn:mdciii:1603:16:360:2:1203>
@@ -777,7 +751,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1203" ;
     skos:prefLabel "Tapanuli Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1203" ;
 .
 
 <urn:mdciii:1603:16:360:2:1204>
@@ -786,7 +759,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1204" ;
     skos:prefLabel "Tapanuli Tengah"@eng-Latn ;
-    wdata:q7200235 "ID1204" ;
 .
 
 <urn:mdciii:1603:16:360:2:1205>
@@ -795,7 +767,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1205" ;
     skos:prefLabel "Tapanuli Utara"@eng-Latn ;
-    wdata:q7200235 "ID1205" ;
 .
 
 <urn:mdciii:1603:16:360:2:1206>
@@ -804,7 +775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1206" ;
     skos:prefLabel "Toba Samosir"@eng-Latn ;
-    wdata:q7200235 "ID1206" ;
 .
 
 <urn:mdciii:1603:16:360:2:1207>
@@ -813,7 +783,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1207" ;
     skos:prefLabel "Labuhan Batu"@eng-Latn ;
-    wdata:q7200235 "ID1207" ;
 .
 
 <urn:mdciii:1603:16:360:2:1208>
@@ -822,7 +791,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1208" ;
     skos:prefLabel "Asahan"@eng-Latn ;
-    wdata:q7200235 "ID1208" ;
 .
 
 <urn:mdciii:1603:16:360:2:1209>
@@ -831,7 +799,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1209" ;
     skos:prefLabel "Simalungun"@eng-Latn ;
-    wdata:q7200235 "ID1209" ;
 .
 
 <urn:mdciii:1603:16:360:2:1210>
@@ -840,7 +807,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1210" ;
     skos:prefLabel "Dairi"@eng-Latn ;
-    wdata:q7200235 "ID1210" ;
 .
 
 <urn:mdciii:1603:16:360:2:1211>
@@ -849,7 +815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1211" ;
     skos:prefLabel "Karo"@eng-Latn ;
-    wdata:q7200235 "ID1211" ;
 .
 
 <urn:mdciii:1603:16:360:2:1212>
@@ -858,7 +823,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1212" ;
     skos:prefLabel "Deli Serdang"@eng-Latn ;
-    wdata:q7200235 "ID1212" ;
 .
 
 <urn:mdciii:1603:16:360:2:1213>
@@ -867,7 +831,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1213" ;
     skos:prefLabel "Langkat"@eng-Latn ;
-    wdata:q7200235 "ID1213" ;
 .
 
 <urn:mdciii:1603:16:360:2:1214>
@@ -876,7 +839,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1214" ;
     skos:prefLabel "Nias Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1214" ;
 .
 
 <urn:mdciii:1603:16:360:2:1215>
@@ -885,7 +847,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1215" ;
     skos:prefLabel "Humbang Hasundutan"@eng-Latn ;
-    wdata:q7200235 "ID1215" ;
 .
 
 <urn:mdciii:1603:16:360:2:1216>
@@ -894,7 +855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1216" ;
     skos:prefLabel "Pakpak Bharat"@eng-Latn ;
-    wdata:q7200235 "ID1216" ;
 .
 
 <urn:mdciii:1603:16:360:2:1217>
@@ -903,7 +863,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1217" ;
     skos:prefLabel "Samosir"@eng-Latn ;
-    wdata:q7200235 "ID1217" ;
 .
 
 <urn:mdciii:1603:16:360:2:1218>
@@ -912,7 +871,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1218" ;
     skos:prefLabel "Serdang Bedagai"@eng-Latn ;
-    wdata:q7200235 "ID1218" ;
 .
 
 <urn:mdciii:1603:16:360:2:1219>
@@ -921,7 +879,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1219" ;
     skos:prefLabel "Batu Bara"@eng-Latn ;
-    wdata:q7200235 "ID1219" ;
 .
 
 <urn:mdciii:1603:16:360:2:1220>
@@ -930,7 +887,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1220" ;
     skos:prefLabel "Padang Lawas Utara"@eng-Latn ;
-    wdata:q7200235 "ID1220" ;
 .
 
 <urn:mdciii:1603:16:360:2:1221>
@@ -939,7 +895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1221" ;
     skos:prefLabel "Padang Lawas"@eng-Latn ;
-    wdata:q7200235 "ID1221" ;
 .
 
 <urn:mdciii:1603:16:360:2:1222>
@@ -948,7 +903,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1222" ;
     skos:prefLabel "Labuhan Batu Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1222" ;
 .
 
 <urn:mdciii:1603:16:360:2:1223>
@@ -957,7 +911,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1223" ;
     skos:prefLabel "Labuhan Batu Utara"@eng-Latn ;
-    wdata:q7200235 "ID1223" ;
 .
 
 <urn:mdciii:1603:16:360:2:1224>
@@ -966,7 +919,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1224" ;
     skos:prefLabel "Nias Utara"@eng-Latn ;
-    wdata:q7200235 "ID1224" ;
 .
 
 <urn:mdciii:1603:16:360:2:1225>
@@ -975,7 +927,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1225" ;
     skos:prefLabel "Nias Barat"@eng-Latn ;
-    wdata:q7200235 "ID1225" ;
 .
 
 <urn:mdciii:1603:16:360:2:1271>
@@ -984,7 +935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1271" ;
     skos:prefLabel "Kota Sibolga"@eng-Latn ;
-    wdata:q7200235 "ID1271" ;
 .
 
 <urn:mdciii:1603:16:360:2:1272>
@@ -993,7 +943,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1272" ;
     skos:prefLabel "Kota Tanjung Balai"@eng-Latn ;
-    wdata:q7200235 "ID1272" ;
 .
 
 <urn:mdciii:1603:16:360:2:1273>
@@ -1002,7 +951,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1273" ;
     skos:prefLabel "Kota Pematang Siantar"@eng-Latn ;
-    wdata:q7200235 "ID1273" ;
 .
 
 <urn:mdciii:1603:16:360:2:1274>
@@ -1011,7 +959,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1274" ;
     skos:prefLabel "Kota Tebing Tinggi"@eng-Latn ;
-    wdata:q7200235 "ID1274" ;
 .
 
 <urn:mdciii:1603:16:360:2:1275>
@@ -1020,7 +967,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1275" ;
     skos:prefLabel "Kota Medan"@eng-Latn ;
-    wdata:q7200235 "ID1275" ;
 .
 
 <urn:mdciii:1603:16:360:2:1276>
@@ -1029,7 +975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1276" ;
     skos:prefLabel "Kota Binjai"@eng-Latn ;
-    wdata:q7200235 "ID1276" ;
 .
 
 <urn:mdciii:1603:16:360:2:1277>
@@ -1038,7 +983,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1277" ;
     skos:prefLabel "Kota Padangsidimpuan"@eng-Latn ;
-    wdata:q7200235 "ID1277" ;
 .
 
 <urn:mdciii:1603:16:360:2:1278>
@@ -1047,7 +991,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1278" ;
     skos:prefLabel "Kota Gunungsitoli"@eng-Latn ;
-    wdata:q7200235 "ID1278" ;
 .
 
 <urn:mdciii:1603:16:360:2:1288>
@@ -1056,7 +999,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1288" ;
     skos:prefLabel "Danau Toba"@eng-Latn ;
-    wdata:q7200235 "ID1288" ;
 .
 
 <urn:mdciii:1603:16:360:2:1301>
@@ -1065,7 +1007,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1301" ;
     skos:prefLabel "Kepulauan Mentawai"@eng-Latn ;
-    wdata:q7200235 "ID1301" ;
 .
 
 <urn:mdciii:1603:16:360:2:1302>
@@ -1074,7 +1015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1302" ;
     skos:prefLabel "Pesisir Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1302" ;
 .
 
 <urn:mdciii:1603:16:360:2:1303>
@@ -1083,7 +1023,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1303" ;
     skos:prefLabel "Solok"@eng-Latn ;
-    wdata:q7200235 "ID1303" ;
 .
 
 <urn:mdciii:1603:16:360:2:1304>
@@ -1092,7 +1031,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1304" ;
     skos:prefLabel "Sijunjung"@eng-Latn ;
-    wdata:q7200235 "ID1304" ;
 .
 
 <urn:mdciii:1603:16:360:2:1305>
@@ -1101,7 +1039,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1305" ;
     skos:prefLabel "Tanah Datar"@eng-Latn ;
-    wdata:q7200235 "ID1305" ;
 .
 
 <urn:mdciii:1603:16:360:2:1306>
@@ -1110,7 +1047,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1306" ;
     skos:prefLabel "Padang Pariaman"@eng-Latn ;
-    wdata:q7200235 "ID1306" ;
 .
 
 <urn:mdciii:1603:16:360:2:1307>
@@ -1119,7 +1055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1307" ;
     skos:prefLabel "Agam"@eng-Latn ;
-    wdata:q7200235 "ID1307" ;
 .
 
 <urn:mdciii:1603:16:360:2:1308>
@@ -1128,7 +1063,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1308" ;
     skos:prefLabel "Lima Puluh Kota"@eng-Latn ;
-    wdata:q7200235 "ID1308" ;
 .
 
 <urn:mdciii:1603:16:360:2:1309>
@@ -1137,7 +1071,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1309" ;
     skos:prefLabel "Pasaman"@eng-Latn ;
-    wdata:q7200235 "ID1309" ;
 .
 
 <urn:mdciii:1603:16:360:2:1310>
@@ -1146,7 +1079,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1310" ;
     skos:prefLabel "Solok Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1310" ;
 .
 
 <urn:mdciii:1603:16:360:2:1311>
@@ -1155,7 +1087,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1311" ;
     skos:prefLabel "Dharmasraya"@eng-Latn ;
-    wdata:q7200235 "ID1311" ;
 .
 
 <urn:mdciii:1603:16:360:2:1312>
@@ -1164,7 +1095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1312" ;
     skos:prefLabel "Pasaman Barat"@eng-Latn ;
-    wdata:q7200235 "ID1312" ;
 .
 
 <urn:mdciii:1603:16:360:2:1371>
@@ -1173,7 +1103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1371" ;
     skos:prefLabel "Kota Padang"@eng-Latn ;
-    wdata:q7200235 "ID1371" ;
 .
 
 <urn:mdciii:1603:16:360:2:1372>
@@ -1182,7 +1111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1372" ;
     skos:prefLabel "Kota Solok"@eng-Latn ;
-    wdata:q7200235 "ID1372" ;
 .
 
 <urn:mdciii:1603:16:360:2:1373>
@@ -1191,7 +1119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1373" ;
     skos:prefLabel "Kota Sawah Lunto"@eng-Latn ;
-    wdata:q7200235 "ID1373" ;
 .
 
 <urn:mdciii:1603:16:360:2:1374>
@@ -1200,7 +1127,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1374" ;
     skos:prefLabel "Kota Padang Panjang"@eng-Latn ;
-    wdata:q7200235 "ID1374" ;
 .
 
 <urn:mdciii:1603:16:360:2:1375>
@@ -1209,7 +1135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1375" ;
     skos:prefLabel "Kota Bukittinggi"@eng-Latn ;
-    wdata:q7200235 "ID1375" ;
 .
 
 <urn:mdciii:1603:16:360:2:1376>
@@ -1218,7 +1143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1376" ;
     skos:prefLabel "Kota Payakumbuh"@eng-Latn ;
-    wdata:q7200235 "ID1376" ;
 .
 
 <urn:mdciii:1603:16:360:2:1377>
@@ -1227,7 +1151,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1377" ;
     skos:prefLabel "Kota Pariaman"@eng-Latn ;
-    wdata:q7200235 "ID1377" ;
 .
 
 <urn:mdciii:1603:16:360:2:1388>
@@ -1236,7 +1159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1388" ;
     skos:prefLabel "Danau"@eng-Latn ;
-    wdata:q7200235 "ID1388" ;
 .
 
 <urn:mdciii:1603:16:360:2:1401>
@@ -1245,7 +1167,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1401" ;
     skos:prefLabel "Kuantan Singingi"@eng-Latn ;
-    wdata:q7200235 "ID1401" ;
 .
 
 <urn:mdciii:1603:16:360:2:1402>
@@ -1254,7 +1175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1402" ;
     skos:prefLabel "Indragiri Hulu"@eng-Latn ;
-    wdata:q7200235 "ID1402" ;
 .
 
 <urn:mdciii:1603:16:360:2:1403>
@@ -1263,7 +1183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1403" ;
     skos:prefLabel "Indragiri Hilir"@eng-Latn ;
-    wdata:q7200235 "ID1403" ;
 .
 
 <urn:mdciii:1603:16:360:2:1404>
@@ -1272,7 +1191,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1404" ;
     skos:prefLabel "Pelalawan"@eng-Latn ;
-    wdata:q7200235 "ID1404" ;
 .
 
 <urn:mdciii:1603:16:360:2:1405>
@@ -1281,7 +1199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1405" ;
     skos:prefLabel "Siak"@eng-Latn ;
-    wdata:q7200235 "ID1405" ;
 .
 
 <urn:mdciii:1603:16:360:2:1406>
@@ -1290,7 +1207,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1406" ;
     skos:prefLabel "Kampar"@eng-Latn ;
-    wdata:q7200235 "ID1406" ;
 .
 
 <urn:mdciii:1603:16:360:2:1407>
@@ -1299,7 +1215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1407" ;
     skos:prefLabel "Rokan Hulu"@eng-Latn ;
-    wdata:q7200235 "ID1407" ;
 .
 
 <urn:mdciii:1603:16:360:2:1408>
@@ -1308,7 +1223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1408" ;
     skos:prefLabel "Bengkalis"@eng-Latn ;
-    wdata:q7200235 "ID1408" ;
 .
 
 <urn:mdciii:1603:16:360:2:1409>
@@ -1317,7 +1231,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1409" ;
     skos:prefLabel "Rokan Hilir"@eng-Latn ;
-    wdata:q7200235 "ID1409" ;
 .
 
 <urn:mdciii:1603:16:360:2:1410>
@@ -1326,7 +1239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1410" ;
     skos:prefLabel "Kepulauan Meranti"@eng-Latn ;
-    wdata:q7200235 "ID1410" ;
 .
 
 <urn:mdciii:1603:16:360:2:1471>
@@ -1335,7 +1247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1471" ;
     skos:prefLabel "Kota Pekanbaru"@eng-Latn ;
-    wdata:q7200235 "ID1471" ;
 .
 
 <urn:mdciii:1603:16:360:2:1473>
@@ -1344,7 +1255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1473" ;
     skos:prefLabel "Kota Dumai"@eng-Latn ;
-    wdata:q7200235 "ID1473" ;
 .
 
 <urn:mdciii:1603:16:360:2:1501>
@@ -1353,7 +1263,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1501" ;
     skos:prefLabel "Kerinci"@eng-Latn ;
-    wdata:q7200235 "ID1501" ;
 .
 
 <urn:mdciii:1603:16:360:2:1502>
@@ -1362,7 +1271,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1502" ;
     skos:prefLabel "Merangin"@eng-Latn ;
-    wdata:q7200235 "ID1502" ;
 .
 
 <urn:mdciii:1603:16:360:2:1503>
@@ -1371,7 +1279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1503" ;
     skos:prefLabel "Sarolangun"@eng-Latn ;
-    wdata:q7200235 "ID1503" ;
 .
 
 <urn:mdciii:1603:16:360:2:1504>
@@ -1380,7 +1287,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1504" ;
     skos:prefLabel "Batang Hari"@eng-Latn ;
-    wdata:q7200235 "ID1504" ;
 .
 
 <urn:mdciii:1603:16:360:2:1505>
@@ -1389,7 +1295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1505" ;
     skos:prefLabel "Muaro Jambi"@eng-Latn ;
-    wdata:q7200235 "ID1505" ;
 .
 
 <urn:mdciii:1603:16:360:2:1506>
@@ -1398,7 +1303,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1506" ;
     skos:prefLabel "Tanjung Jabung Timur"@eng-Latn ;
-    wdata:q7200235 "ID1506" ;
 .
 
 <urn:mdciii:1603:16:360:2:1507>
@@ -1407,7 +1311,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1507" ;
     skos:prefLabel "Tanjung Jabung Barat"@eng-Latn ;
-    wdata:q7200235 "ID1507" ;
 .
 
 <urn:mdciii:1603:16:360:2:1508>
@@ -1416,7 +1319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1508" ;
     skos:prefLabel "Tebo"@eng-Latn ;
-    wdata:q7200235 "ID1508" ;
 .
 
 <urn:mdciii:1603:16:360:2:1509>
@@ -1425,7 +1327,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1509" ;
     skos:prefLabel "Bungo"@eng-Latn ;
-    wdata:q7200235 "ID1509" ;
 .
 
 <urn:mdciii:1603:16:360:2:1571>
@@ -1434,7 +1335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1571" ;
     skos:prefLabel "Kota Jambi"@eng-Latn ;
-    wdata:q7200235 "ID1571" ;
 .
 
 <urn:mdciii:1603:16:360:2:1572>
@@ -1443,7 +1343,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1572" ;
     skos:prefLabel "Kota Sungai Penuh"@eng-Latn ;
-    wdata:q7200235 "ID1572" ;
 .
 
 <urn:mdciii:1603:16:360:2:1601>
@@ -1452,7 +1351,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1601" ;
     skos:prefLabel "Ogan Komering Ulu"@eng-Latn ;
-    wdata:q7200235 "ID1601" ;
 .
 
 <urn:mdciii:1603:16:360:2:1602>
@@ -1461,7 +1359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1602" ;
     skos:prefLabel "Ogan Komering Ilir"@eng-Latn ;
-    wdata:q7200235 "ID1602" ;
 .
 
 <urn:mdciii:1603:16:360:2:1603>
@@ -1470,7 +1367,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1603" ;
     skos:prefLabel "Muara Enim"@eng-Latn ;
-    wdata:q7200235 "ID1603" ;
 .
 
 <urn:mdciii:1603:16:360:2:1604>
@@ -1479,7 +1375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1604" ;
     skos:prefLabel "Lahat"@eng-Latn ;
-    wdata:q7200235 "ID1604" ;
 .
 
 <urn:mdciii:1603:16:360:2:1605>
@@ -1488,7 +1383,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1605" ;
     skos:prefLabel "Musi Rawas"@eng-Latn ;
-    wdata:q7200235 "ID1605" ;
 .
 
 <urn:mdciii:1603:16:360:2:1606>
@@ -1497,7 +1391,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1606" ;
     skos:prefLabel "Musi Banyuasin"@eng-Latn ;
-    wdata:q7200235 "ID1606" ;
 .
 
 <urn:mdciii:1603:16:360:2:1607>
@@ -1506,7 +1399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1607" ;
     skos:prefLabel "Banyu Asin"@eng-Latn ;
-    wdata:q7200235 "ID1607" ;
 .
 
 <urn:mdciii:1603:16:360:2:1608>
@@ -1515,7 +1407,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1608" ;
     skos:prefLabel "Ogan Komering Ulu Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1608" ;
 .
 
 <urn:mdciii:1603:16:360:2:1609>
@@ -1524,7 +1415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1609" ;
     skos:prefLabel "Ogan Komering Ulu Timur"@eng-Latn ;
-    wdata:q7200235 "ID1609" ;
 .
 
 <urn:mdciii:1603:16:360:2:1610>
@@ -1533,7 +1423,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1610" ;
     skos:prefLabel "Ogan Ilir"@eng-Latn ;
-    wdata:q7200235 "ID1610" ;
 .
 
 <urn:mdciii:1603:16:360:2:1611>
@@ -1542,7 +1431,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1611" ;
     skos:prefLabel "Empat Lawang"@eng-Latn ;
-    wdata:q7200235 "ID1611" ;
 .
 
 <urn:mdciii:1603:16:360:2:1612>
@@ -1551,7 +1439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1612" ;
     skos:prefLabel "Penukal Abab Lematang Ilir"@eng-Latn ;
-    wdata:q7200235 "ID1612" ;
 .
 
 <urn:mdciii:1603:16:360:2:1613>
@@ -1560,7 +1447,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1613" ;
     skos:prefLabel "Musi Rawas Utara"@eng-Latn ;
-    wdata:q7200235 "ID1613" ;
 .
 
 <urn:mdciii:1603:16:360:2:1671>
@@ -1569,7 +1455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1671" ;
     skos:prefLabel "Kota Palembang"@eng-Latn ;
-    wdata:q7200235 "ID1671" ;
 .
 
 <urn:mdciii:1603:16:360:2:1672>
@@ -1578,7 +1463,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1672" ;
     skos:prefLabel "Kota Prabumulih"@eng-Latn ;
-    wdata:q7200235 "ID1672" ;
 .
 
 <urn:mdciii:1603:16:360:2:1673>
@@ -1587,7 +1471,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1673" ;
     skos:prefLabel "Kota Pagar Alam"@eng-Latn ;
-    wdata:q7200235 "ID1673" ;
 .
 
 <urn:mdciii:1603:16:360:2:1674>
@@ -1596,7 +1479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1674" ;
     skos:prefLabel "Kota Lubuklinggau"@eng-Latn ;
-    wdata:q7200235 "ID1674" ;
 .
 
 <urn:mdciii:1603:16:360:2:1688>
@@ -1605,7 +1487,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1688" ;
     skos:prefLabel "Danau"@eng-Latn ;
-    wdata:q7200235 "ID1688" ;
 .
 
 <urn:mdciii:1603:16:360:2:1701>
@@ -1614,7 +1495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1701" ;
     skos:prefLabel "Bengkulu Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1701" ;
 .
 
 <urn:mdciii:1603:16:360:2:1702>
@@ -1623,7 +1503,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1702" ;
     skos:prefLabel "Rejang Lebong"@eng-Latn ;
-    wdata:q7200235 "ID1702" ;
 .
 
 <urn:mdciii:1603:16:360:2:1703>
@@ -1632,7 +1511,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1703" ;
     skos:prefLabel "Bengkulu Utara"@eng-Latn ;
-    wdata:q7200235 "ID1703" ;
 .
 
 <urn:mdciii:1603:16:360:2:1704>
@@ -1641,7 +1519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1704" ;
     skos:prefLabel "Kaur"@eng-Latn ;
-    wdata:q7200235 "ID1704" ;
 .
 
 <urn:mdciii:1603:16:360:2:1705>
@@ -1650,7 +1527,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1705" ;
     skos:prefLabel "Seluma"@eng-Latn ;
-    wdata:q7200235 "ID1705" ;
 .
 
 <urn:mdciii:1603:16:360:2:1706>
@@ -1659,7 +1535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1706" ;
     skos:prefLabel "Mukomuko"@eng-Latn ;
-    wdata:q7200235 "ID1706" ;
 .
 
 <urn:mdciii:1603:16:360:2:1707>
@@ -1668,7 +1543,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1707" ;
     skos:prefLabel "Lebong"@eng-Latn ;
-    wdata:q7200235 "ID1707" ;
 .
 
 <urn:mdciii:1603:16:360:2:1708>
@@ -1677,7 +1551,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1708" ;
     skos:prefLabel "Kepahiang"@eng-Latn ;
-    wdata:q7200235 "ID1708" ;
 .
 
 <urn:mdciii:1603:16:360:2:1709>
@@ -1686,7 +1559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1709" ;
     skos:prefLabel "Bengkulu Tengah"@eng-Latn ;
-    wdata:q7200235 "ID1709" ;
 .
 
 <urn:mdciii:1603:16:360:2:1771>
@@ -1695,7 +1567,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1771" ;
     skos:prefLabel "Kota Bengkulu"@eng-Latn ;
-    wdata:q7200235 "ID1771" ;
 .
 
 <urn:mdciii:1603:16:360:2:1801>
@@ -1704,7 +1575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1801" ;
     skos:prefLabel "Lampung Barat"@eng-Latn ;
-    wdata:q7200235 "ID1801" ;
 .
 
 <urn:mdciii:1603:16:360:2:1802>
@@ -1713,7 +1583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1802" ;
     skos:prefLabel "Tanggamus"@eng-Latn ;
-    wdata:q7200235 "ID1802" ;
 .
 
 <urn:mdciii:1603:16:360:2:1803>
@@ -1722,7 +1591,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1803" ;
     skos:prefLabel "Lampung Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1803" ;
 .
 
 <urn:mdciii:1603:16:360:2:1804>
@@ -1731,7 +1599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1804" ;
     skos:prefLabel "Lampung Timur"@eng-Latn ;
-    wdata:q7200235 "ID1804" ;
 .
 
 <urn:mdciii:1603:16:360:2:1805>
@@ -1740,7 +1607,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1805" ;
     skos:prefLabel "Lampung Tengah"@eng-Latn ;
-    wdata:q7200235 "ID1805" ;
 .
 
 <urn:mdciii:1603:16:360:2:1806>
@@ -1749,7 +1615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1806" ;
     skos:prefLabel "Lampung Utara"@eng-Latn ;
-    wdata:q7200235 "ID1806" ;
 .
 
 <urn:mdciii:1603:16:360:2:1807>
@@ -1758,7 +1623,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1807" ;
     skos:prefLabel "Way Kanan"@eng-Latn ;
-    wdata:q7200235 "ID1807" ;
 .
 
 <urn:mdciii:1603:16:360:2:1808>
@@ -1767,7 +1631,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1808" ;
     skos:prefLabel "Tulangbawang"@eng-Latn ;
-    wdata:q7200235 "ID1808" ;
 .
 
 <urn:mdciii:1603:16:360:2:1809>
@@ -1776,7 +1639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1809" ;
     skos:prefLabel "Pesawaran"@eng-Latn ;
-    wdata:q7200235 "ID1809" ;
 .
 
 <urn:mdciii:1603:16:360:2:1810>
@@ -1785,7 +1647,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1810" ;
     skos:prefLabel "Pringsewu"@eng-Latn ;
-    wdata:q7200235 "ID1810" ;
 .
 
 <urn:mdciii:1603:16:360:2:1811>
@@ -1794,7 +1655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1811" ;
     skos:prefLabel "Mesuji"@eng-Latn ;
-    wdata:q7200235 "ID1811" ;
 .
 
 <urn:mdciii:1603:16:360:2:1812>
@@ -1803,7 +1663,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1812" ;
     skos:prefLabel "Tulang Bawang Barat"@eng-Latn ;
-    wdata:q7200235 "ID1812" ;
 .
 
 <urn:mdciii:1603:16:360:2:1813>
@@ -1812,7 +1671,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1813" ;
     skos:prefLabel "Pesisir Barat"@eng-Latn ;
-    wdata:q7200235 "ID1813" ;
 .
 
 <urn:mdciii:1603:16:360:2:1871>
@@ -1821,7 +1679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1871" ;
     skos:prefLabel "Kota Bandar Lampung"@eng-Latn ;
-    wdata:q7200235 "ID1871" ;
 .
 
 <urn:mdciii:1603:16:360:2:1872>
@@ -1830,7 +1687,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1872" ;
     skos:prefLabel "Kota Metro"@eng-Latn ;
-    wdata:q7200235 "ID1872" ;
 .
 
 <urn:mdciii:1603:16:360:2:1888>
@@ -1839,7 +1695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1888" ;
     skos:prefLabel "Danau"@eng-Latn ;
-    wdata:q7200235 "ID1888" ;
 .
 
 <urn:mdciii:1603:16:360:2:1901>
@@ -1848,7 +1703,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1901" ;
     skos:prefLabel "Bangka"@eng-Latn ;
-    wdata:q7200235 "ID1901" ;
 .
 
 <urn:mdciii:1603:16:360:2:1902>
@@ -1857,7 +1711,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1902" ;
     skos:prefLabel "Belitung"@eng-Latn ;
-    wdata:q7200235 "ID1902" ;
 .
 
 <urn:mdciii:1603:16:360:2:1903>
@@ -1866,7 +1719,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1903" ;
     skos:prefLabel "Bangka Barat"@eng-Latn ;
-    wdata:q7200235 "ID1903" ;
 .
 
 <urn:mdciii:1603:16:360:2:1904>
@@ -1875,7 +1727,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1904" ;
     skos:prefLabel "Bangka Tengah"@eng-Latn ;
-    wdata:q7200235 "ID1904" ;
 .
 
 <urn:mdciii:1603:16:360:2:1905>
@@ -1884,7 +1735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1905" ;
     skos:prefLabel "Bangka Selatan"@eng-Latn ;
-    wdata:q7200235 "ID1905" ;
 .
 
 <urn:mdciii:1603:16:360:2:1906>
@@ -1893,7 +1743,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1906" ;
     skos:prefLabel "Belitung Timur"@eng-Latn ;
-    wdata:q7200235 "ID1906" ;
 .
 
 <urn:mdciii:1603:16:360:2:1971>
@@ -1902,7 +1751,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:1971" ;
     skos:prefLabel "Kota Pangkal Pinang"@eng-Latn ;
-    wdata:q7200235 "ID1971" ;
 .
 
 <urn:mdciii:1603:16:360:2:2101>
@@ -1911,7 +1759,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2101" ;
     skos:prefLabel "Karimun"@eng-Latn ;
-    wdata:q7200235 "ID2101" ;
 .
 
 <urn:mdciii:1603:16:360:2:2102>
@@ -1920,7 +1767,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2102" ;
     skos:prefLabel "Bintan"@eng-Latn ;
-    wdata:q7200235 "ID2102" ;
 .
 
 <urn:mdciii:1603:16:360:2:2103>
@@ -1929,7 +1775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2103" ;
     skos:prefLabel "Natuna"@eng-Latn ;
-    wdata:q7200235 "ID2103" ;
 .
 
 <urn:mdciii:1603:16:360:2:2104>
@@ -1938,7 +1783,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2104" ;
     skos:prefLabel "Lingga"@eng-Latn ;
-    wdata:q7200235 "ID2104" ;
 .
 
 <urn:mdciii:1603:16:360:2:2105>
@@ -1947,7 +1791,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2105" ;
     skos:prefLabel "Kepulauan Anambas"@eng-Latn ;
-    wdata:q7200235 "ID2105" ;
 .
 
 <urn:mdciii:1603:16:360:2:2171>
@@ -1956,7 +1799,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2171" ;
     skos:prefLabel "Kota Batam"@eng-Latn ;
-    wdata:q7200235 "ID2171" ;
 .
 
 <urn:mdciii:1603:16:360:2:2172>
@@ -1965,7 +1807,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:2172" ;
     skos:prefLabel "Kota Tanjung Pinang"@eng-Latn ;
-    wdata:q7200235 "ID2172" ;
 .
 
 <urn:mdciii:1603:16:360:2:3101>
@@ -1974,7 +1815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3101" ;
     skos:prefLabel "Kepulauan Seribu"@eng-Latn ;
-    wdata:q7200235 "ID3101" ;
 .
 
 <urn:mdciii:1603:16:360:2:3171>
@@ -1983,7 +1823,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3171" ;
     skos:prefLabel "Kota Jakarta Selatan"@eng-Latn ;
-    wdata:q7200235 "ID3171" ;
 .
 
 <urn:mdciii:1603:16:360:2:3172>
@@ -1992,7 +1831,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3172" ;
     skos:prefLabel "Kota Jakarta Timur"@eng-Latn ;
-    wdata:q7200235 "ID3172" ;
 .
 
 <urn:mdciii:1603:16:360:2:3173>
@@ -2001,7 +1839,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3173" ;
     skos:prefLabel "Kota Jakarta Pusat"@eng-Latn ;
-    wdata:q7200235 "ID3173" ;
 .
 
 <urn:mdciii:1603:16:360:2:3174>
@@ -2010,7 +1847,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3174" ;
     skos:prefLabel "Kota Jakarta Barat"@eng-Latn ;
-    wdata:q7200235 "ID3174" ;
 .
 
 <urn:mdciii:1603:16:360:2:3175>
@@ -2019,7 +1855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3175" ;
     skos:prefLabel "Kota Jakarta Utara"@eng-Latn ;
-    wdata:q7200235 "ID3175" ;
 .
 
 <urn:mdciii:1603:16:360:2:3201>
@@ -2028,7 +1863,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3201" ;
     skos:prefLabel "Bogor"@eng-Latn ;
-    wdata:q7200235 "ID3201" ;
 .
 
 <urn:mdciii:1603:16:360:2:3202>
@@ -2037,7 +1871,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3202" ;
     skos:prefLabel "Sukabumi"@eng-Latn ;
-    wdata:q7200235 "ID3202" ;
 .
 
 <urn:mdciii:1603:16:360:2:3203>
@@ -2046,7 +1879,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3203" ;
     skos:prefLabel "Cianjur"@eng-Latn ;
-    wdata:q7200235 "ID3203" ;
 .
 
 <urn:mdciii:1603:16:360:2:3204>
@@ -2055,7 +1887,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3204" ;
     skos:prefLabel "Bandung"@eng-Latn ;
-    wdata:q7200235 "ID3204" ;
 .
 
 <urn:mdciii:1603:16:360:2:3205>
@@ -2064,7 +1895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3205" ;
     skos:prefLabel "Garut"@eng-Latn ;
-    wdata:q7200235 "ID3205" ;
 .
 
 <urn:mdciii:1603:16:360:2:3206>
@@ -2073,7 +1903,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3206" ;
     skos:prefLabel "Tasikmalaya"@eng-Latn ;
-    wdata:q7200235 "ID3206" ;
 .
 
 <urn:mdciii:1603:16:360:2:3207>
@@ -2082,7 +1911,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3207" ;
     skos:prefLabel "Ciamis"@eng-Latn ;
-    wdata:q7200235 "ID3207" ;
 .
 
 <urn:mdciii:1603:16:360:2:3208>
@@ -2091,7 +1919,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3208" ;
     skos:prefLabel "Kuningan"@eng-Latn ;
-    wdata:q7200235 "ID3208" ;
 .
 
 <urn:mdciii:1603:16:360:2:3209>
@@ -2100,7 +1927,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3209" ;
     skos:prefLabel "Cirebon"@eng-Latn ;
-    wdata:q7200235 "ID3209" ;
 .
 
 <urn:mdciii:1603:16:360:2:3210>
@@ -2109,7 +1935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3210" ;
     skos:prefLabel "Majalengka"@eng-Latn ;
-    wdata:q7200235 "ID3210" ;
 .
 
 <urn:mdciii:1603:16:360:2:3211>
@@ -2118,7 +1943,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3211" ;
     skos:prefLabel "Sumedang"@eng-Latn ;
-    wdata:q7200235 "ID3211" ;
 .
 
 <urn:mdciii:1603:16:360:2:3212>
@@ -2127,7 +1951,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3212" ;
     skos:prefLabel "Indramayu"@eng-Latn ;
-    wdata:q7200235 "ID3212" ;
 .
 
 <urn:mdciii:1603:16:360:2:3213>
@@ -2136,7 +1959,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3213" ;
     skos:prefLabel "Subang"@eng-Latn ;
-    wdata:q7200235 "ID3213" ;
 .
 
 <urn:mdciii:1603:16:360:2:3214>
@@ -2145,7 +1967,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3214" ;
     skos:prefLabel "Purwakarta"@eng-Latn ;
-    wdata:q7200235 "ID3214" ;
 .
 
 <urn:mdciii:1603:16:360:2:3215>
@@ -2154,7 +1975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3215" ;
     skos:prefLabel "Karawang"@eng-Latn ;
-    wdata:q7200235 "ID3215" ;
 .
 
 <urn:mdciii:1603:16:360:2:3216>
@@ -2163,7 +1983,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3216" ;
     skos:prefLabel "Bekasi"@eng-Latn ;
-    wdata:q7200235 "ID3216" ;
 .
 
 <urn:mdciii:1603:16:360:2:3217>
@@ -2172,7 +1991,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3217" ;
     skos:prefLabel "Bandung Barat"@eng-Latn ;
-    wdata:q7200235 "ID3217" ;
 .
 
 <urn:mdciii:1603:16:360:2:3218>
@@ -2181,7 +1999,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3218" ;
     skos:prefLabel "Pangandaran"@eng-Latn ;
-    wdata:q7200235 "ID3218" ;
 .
 
 <urn:mdciii:1603:16:360:2:3271>
@@ -2190,7 +2007,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3271" ;
     skos:prefLabel "Kota Bogor"@eng-Latn ;
-    wdata:q7200235 "ID3271" ;
 .
 
 <urn:mdciii:1603:16:360:2:3272>
@@ -2199,7 +2015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3272" ;
     skos:prefLabel "Kota Sukabumi"@eng-Latn ;
-    wdata:q7200235 "ID3272" ;
 .
 
 <urn:mdciii:1603:16:360:2:3273>
@@ -2208,7 +2023,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3273" ;
     skos:prefLabel "Kota Bandung"@eng-Latn ;
-    wdata:q7200235 "ID3273" ;
 .
 
 <urn:mdciii:1603:16:360:2:3274>
@@ -2217,7 +2031,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3274" ;
     skos:prefLabel "Kota Cirebon"@eng-Latn ;
-    wdata:q7200235 "ID3274" ;
 .
 
 <urn:mdciii:1603:16:360:2:3275>
@@ -2226,7 +2039,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3275" ;
     skos:prefLabel "Kota Bekasi"@eng-Latn ;
-    wdata:q7200235 "ID3275" ;
 .
 
 <urn:mdciii:1603:16:360:2:3276>
@@ -2235,7 +2047,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3276" ;
     skos:prefLabel "Kota Depok"@eng-Latn ;
-    wdata:q7200235 "ID3276" ;
 .
 
 <urn:mdciii:1603:16:360:2:3277>
@@ -2244,7 +2055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3277" ;
     skos:prefLabel "Kota Cimahi"@eng-Latn ;
-    wdata:q7200235 "ID3277" ;
 .
 
 <urn:mdciii:1603:16:360:2:3278>
@@ -2253,7 +2063,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3278" ;
     skos:prefLabel "Kota Tasikmalaya"@eng-Latn ;
-    wdata:q7200235 "ID3278" ;
 .
 
 <urn:mdciii:1603:16:360:2:3279>
@@ -2262,7 +2071,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3279" ;
     skos:prefLabel "Kota Banjar"@eng-Latn ;
-    wdata:q7200235 "ID3279" ;
 .
 
 <urn:mdciii:1603:16:360:2:3288>
@@ -2271,7 +2079,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3288" ;
     skos:prefLabel "Waduk Cirata"@eng-Latn ;
-    wdata:q7200235 "ID3288" ;
 .
 
 <urn:mdciii:1603:16:360:2:3301>
@@ -2280,7 +2087,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3301" ;
     skos:prefLabel "Cilacap"@eng-Latn ;
-    wdata:q7200235 "ID3301" ;
 .
 
 <urn:mdciii:1603:16:360:2:3302>
@@ -2289,7 +2095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3302" ;
     skos:prefLabel "Banyumas"@eng-Latn ;
-    wdata:q7200235 "ID3302" ;
 .
 
 <urn:mdciii:1603:16:360:2:3303>
@@ -2298,7 +2103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3303" ;
     skos:prefLabel "Purbalingga"@eng-Latn ;
-    wdata:q7200235 "ID3303" ;
 .
 
 <urn:mdciii:1603:16:360:2:3304>
@@ -2307,7 +2111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3304" ;
     skos:prefLabel "Banjarnegara"@eng-Latn ;
-    wdata:q7200235 "ID3304" ;
 .
 
 <urn:mdciii:1603:16:360:2:3305>
@@ -2316,7 +2119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3305" ;
     skos:prefLabel "Kebumen"@eng-Latn ;
-    wdata:q7200235 "ID3305" ;
 .
 
 <urn:mdciii:1603:16:360:2:3306>
@@ -2325,7 +2127,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3306" ;
     skos:prefLabel "Purworejo"@eng-Latn ;
-    wdata:q7200235 "ID3306" ;
 .
 
 <urn:mdciii:1603:16:360:2:3307>
@@ -2334,7 +2135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3307" ;
     skos:prefLabel "Wonosobo"@eng-Latn ;
-    wdata:q7200235 "ID3307" ;
 .
 
 <urn:mdciii:1603:16:360:2:3308>
@@ -2343,7 +2143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3308" ;
     skos:prefLabel "Magelang"@eng-Latn ;
-    wdata:q7200235 "ID3308" ;
 .
 
 <urn:mdciii:1603:16:360:2:3309>
@@ -2352,7 +2151,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3309" ;
     skos:prefLabel "Boyolali"@eng-Latn ;
-    wdata:q7200235 "ID3309" ;
 .
 
 <urn:mdciii:1603:16:360:2:3310>
@@ -2361,7 +2159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3310" ;
     skos:prefLabel "Klaten"@eng-Latn ;
-    wdata:q7200235 "ID3310" ;
 .
 
 <urn:mdciii:1603:16:360:2:3311>
@@ -2370,7 +2167,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3311" ;
     skos:prefLabel "Sukoharjo"@eng-Latn ;
-    wdata:q7200235 "ID3311" ;
 .
 
 <urn:mdciii:1603:16:360:2:3312>
@@ -2379,7 +2175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3312" ;
     skos:prefLabel "Wonogiri"@eng-Latn ;
-    wdata:q7200235 "ID3312" ;
 .
 
 <urn:mdciii:1603:16:360:2:3313>
@@ -2388,7 +2183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3313" ;
     skos:prefLabel "Karanganyar"@eng-Latn ;
-    wdata:q7200235 "ID3313" ;
 .
 
 <urn:mdciii:1603:16:360:2:3314>
@@ -2397,7 +2191,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3314" ;
     skos:prefLabel "Sragen"@eng-Latn ;
-    wdata:q7200235 "ID3314" ;
 .
 
 <urn:mdciii:1603:16:360:2:3315>
@@ -2406,7 +2199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3315" ;
     skos:prefLabel "Grobogan"@eng-Latn ;
-    wdata:q7200235 "ID3315" ;
 .
 
 <urn:mdciii:1603:16:360:2:3316>
@@ -2415,7 +2207,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3316" ;
     skos:prefLabel "Blora"@eng-Latn ;
-    wdata:q7200235 "ID3316" ;
 .
 
 <urn:mdciii:1603:16:360:2:3317>
@@ -2424,7 +2215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3317" ;
     skos:prefLabel "Rembang"@eng-Latn ;
-    wdata:q7200235 "ID3317" ;
 .
 
 <urn:mdciii:1603:16:360:2:3318>
@@ -2433,7 +2223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3318" ;
     skos:prefLabel "Pati"@eng-Latn ;
-    wdata:q7200235 "ID3318" ;
 .
 
 <urn:mdciii:1603:16:360:2:3319>
@@ -2442,7 +2231,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3319" ;
     skos:prefLabel "Kudus"@eng-Latn ;
-    wdata:q7200235 "ID3319" ;
 .
 
 <urn:mdciii:1603:16:360:2:3320>
@@ -2451,7 +2239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3320" ;
     skos:prefLabel "Jepara"@eng-Latn ;
-    wdata:q7200235 "ID3320" ;
 .
 
 <urn:mdciii:1603:16:360:2:3321>
@@ -2460,7 +2247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3321" ;
     skos:prefLabel "Demak"@eng-Latn ;
-    wdata:q7200235 "ID3321" ;
 .
 
 <urn:mdciii:1603:16:360:2:3322>
@@ -2469,7 +2255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3322" ;
     skos:prefLabel "Semarang"@eng-Latn ;
-    wdata:q7200235 "ID3322" ;
 .
 
 <urn:mdciii:1603:16:360:2:3323>
@@ -2478,7 +2263,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3323" ;
     skos:prefLabel "Temanggung"@eng-Latn ;
-    wdata:q7200235 "ID3323" ;
 .
 
 <urn:mdciii:1603:16:360:2:3324>
@@ -2487,7 +2271,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3324" ;
     skos:prefLabel "Kendal"@eng-Latn ;
-    wdata:q7200235 "ID3324" ;
 .
 
 <urn:mdciii:1603:16:360:2:3325>
@@ -2496,7 +2279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3325" ;
     skos:prefLabel "Batang"@eng-Latn ;
-    wdata:q7200235 "ID3325" ;
 .
 
 <urn:mdciii:1603:16:360:2:3326>
@@ -2505,7 +2287,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3326" ;
     skos:prefLabel "Pekalongan"@eng-Latn ;
-    wdata:q7200235 "ID3326" ;
 .
 
 <urn:mdciii:1603:16:360:2:3327>
@@ -2514,7 +2295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3327" ;
     skos:prefLabel "Pemalang"@eng-Latn ;
-    wdata:q7200235 "ID3327" ;
 .
 
 <urn:mdciii:1603:16:360:2:3328>
@@ -2523,7 +2303,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3328" ;
     skos:prefLabel "Tegal"@eng-Latn ;
-    wdata:q7200235 "ID3328" ;
 .
 
 <urn:mdciii:1603:16:360:2:3329>
@@ -2532,7 +2311,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3329" ;
     skos:prefLabel "Brebes"@eng-Latn ;
-    wdata:q7200235 "ID3329" ;
 .
 
 <urn:mdciii:1603:16:360:2:3371>
@@ -2541,7 +2319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3371" ;
     skos:prefLabel "Kota Magelang"@eng-Latn ;
-    wdata:q7200235 "ID3371" ;
 .
 
 <urn:mdciii:1603:16:360:2:3372>
@@ -2550,7 +2327,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3372" ;
     skos:prefLabel "Kota Surakarta"@eng-Latn ;
-    wdata:q7200235 "ID3372" ;
 .
 
 <urn:mdciii:1603:16:360:2:3373>
@@ -2559,7 +2335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3373" ;
     skos:prefLabel "Kota Salatiga"@eng-Latn ;
-    wdata:q7200235 "ID3373" ;
 .
 
 <urn:mdciii:1603:16:360:2:3374>
@@ -2568,7 +2343,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3374" ;
     skos:prefLabel "Kota Semarang"@eng-Latn ;
-    wdata:q7200235 "ID3374" ;
 .
 
 <urn:mdciii:1603:16:360:2:3375>
@@ -2577,7 +2351,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3375" ;
     skos:prefLabel "Kota Pekalongan"@eng-Latn ;
-    wdata:q7200235 "ID3375" ;
 .
 
 <urn:mdciii:1603:16:360:2:3376>
@@ -2586,7 +2359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3376" ;
     skos:prefLabel "Kota Tegal"@eng-Latn ;
-    wdata:q7200235 "ID3376" ;
 .
 
 <urn:mdciii:1603:16:360:2:3388>
@@ -2595,7 +2367,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3388" ;
     skos:prefLabel "Wadung Kedungombo"@eng-Latn ;
-    wdata:q7200235 "ID3388" ;
 .
 
 <urn:mdciii:1603:16:360:2:3399>
@@ -2604,7 +2375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3399" ;
     skos:prefLabel "Hutan"@eng-Latn ;
-    wdata:q7200235 "ID3399" ;
 .
 
 <urn:mdciii:1603:16:360:2:3401>
@@ -2613,7 +2383,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3401" ;
     skos:prefLabel "Kulon Progo"@eng-Latn ;
-    wdata:q7200235 "ID3401" ;
 .
 
 <urn:mdciii:1603:16:360:2:3402>
@@ -2622,7 +2391,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3402" ;
     skos:prefLabel "Bantul"@eng-Latn ;
-    wdata:q7200235 "ID3402" ;
 .
 
 <urn:mdciii:1603:16:360:2:3403>
@@ -2631,7 +2399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3403" ;
     skos:prefLabel "Gunung Kidul"@eng-Latn ;
-    wdata:q7200235 "ID3403" ;
 .
 
 <urn:mdciii:1603:16:360:2:3404>
@@ -2640,7 +2407,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3404" ;
     skos:prefLabel "Sleman"@eng-Latn ;
-    wdata:q7200235 "ID3404" ;
 .
 
 <urn:mdciii:1603:16:360:2:3471>
@@ -2649,7 +2415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3471" ;
     skos:prefLabel "Kota Yogyakarta"@eng-Latn ;
-    wdata:q7200235 "ID3471" ;
 .
 
 <urn:mdciii:1603:16:360:2:3501>
@@ -2658,7 +2423,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3501" ;
     skos:prefLabel "Pacitan"@eng-Latn ;
-    wdata:q7200235 "ID3501" ;
 .
 
 <urn:mdciii:1603:16:360:2:3502>
@@ -2667,7 +2431,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3502" ;
     skos:prefLabel "Ponorogo"@eng-Latn ;
-    wdata:q7200235 "ID3502" ;
 .
 
 <urn:mdciii:1603:16:360:2:3503>
@@ -2676,7 +2439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3503" ;
     skos:prefLabel "Trenggalek"@eng-Latn ;
-    wdata:q7200235 "ID3503" ;
 .
 
 <urn:mdciii:1603:16:360:2:3504>
@@ -2685,7 +2447,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3504" ;
     skos:prefLabel "Tulungagung"@eng-Latn ;
-    wdata:q7200235 "ID3504" ;
 .
 
 <urn:mdciii:1603:16:360:2:3505>
@@ -2694,7 +2455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3505" ;
     skos:prefLabel "Blitar"@eng-Latn ;
-    wdata:q7200235 "ID3505" ;
 .
 
 <urn:mdciii:1603:16:360:2:3506>
@@ -2703,7 +2463,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3506" ;
     skos:prefLabel "Kediri"@eng-Latn ;
-    wdata:q7200235 "ID3506" ;
 .
 
 <urn:mdciii:1603:16:360:2:3507>
@@ -2712,7 +2471,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3507" ;
     skos:prefLabel "Malang"@eng-Latn ;
-    wdata:q7200235 "ID3507" ;
 .
 
 <urn:mdciii:1603:16:360:2:3508>
@@ -2721,7 +2479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3508" ;
     skos:prefLabel "Lumajang"@eng-Latn ;
-    wdata:q7200235 "ID3508" ;
 .
 
 <urn:mdciii:1603:16:360:2:3509>
@@ -2730,7 +2487,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3509" ;
     skos:prefLabel "Jember"@eng-Latn ;
-    wdata:q7200235 "ID3509" ;
 .
 
 <urn:mdciii:1603:16:360:2:3510>
@@ -2739,7 +2495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3510" ;
     skos:prefLabel "Banyuwangi"@eng-Latn ;
-    wdata:q7200235 "ID3510" ;
 .
 
 <urn:mdciii:1603:16:360:2:3511>
@@ -2748,7 +2503,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3511" ;
     skos:prefLabel "Bondowoso"@eng-Latn ;
-    wdata:q7200235 "ID3511" ;
 .
 
 <urn:mdciii:1603:16:360:2:3512>
@@ -2757,7 +2511,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3512" ;
     skos:prefLabel "Situbondo"@eng-Latn ;
-    wdata:q7200235 "ID3512" ;
 .
 
 <urn:mdciii:1603:16:360:2:3513>
@@ -2766,7 +2519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3513" ;
     skos:prefLabel "Probolinggo"@eng-Latn ;
-    wdata:q7200235 "ID3513" ;
 .
 
 <urn:mdciii:1603:16:360:2:3514>
@@ -2775,7 +2527,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3514" ;
     skos:prefLabel "Pasuruan"@eng-Latn ;
-    wdata:q7200235 "ID3514" ;
 .
 
 <urn:mdciii:1603:16:360:2:3515>
@@ -2784,7 +2535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3515" ;
     skos:prefLabel "Sidoarjo"@eng-Latn ;
-    wdata:q7200235 "ID3515" ;
 .
 
 <urn:mdciii:1603:16:360:2:3516>
@@ -2793,7 +2543,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3516" ;
     skos:prefLabel "Mojokerto"@eng-Latn ;
-    wdata:q7200235 "ID3516" ;
 .
 
 <urn:mdciii:1603:16:360:2:3517>
@@ -2802,7 +2551,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3517" ;
     skos:prefLabel "Jombang"@eng-Latn ;
-    wdata:q7200235 "ID3517" ;
 .
 
 <urn:mdciii:1603:16:360:2:3518>
@@ -2811,7 +2559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3518" ;
     skos:prefLabel "Nganjuk"@eng-Latn ;
-    wdata:q7200235 "ID3518" ;
 .
 
 <urn:mdciii:1603:16:360:2:3519>
@@ -2820,7 +2567,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3519" ;
     skos:prefLabel "Madiun"@eng-Latn ;
-    wdata:q7200235 "ID3519" ;
 .
 
 <urn:mdciii:1603:16:360:2:3520>
@@ -2829,7 +2575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3520" ;
     skos:prefLabel "Magetan"@eng-Latn ;
-    wdata:q7200235 "ID3520" ;
 .
 
 <urn:mdciii:1603:16:360:2:3521>
@@ -2838,7 +2583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3521" ;
     skos:prefLabel "Ngawi"@eng-Latn ;
-    wdata:q7200235 "ID3521" ;
 .
 
 <urn:mdciii:1603:16:360:2:3522>
@@ -2847,7 +2591,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3522" ;
     skos:prefLabel "Bojonegoro"@eng-Latn ;
-    wdata:q7200235 "ID3522" ;
 .
 
 <urn:mdciii:1603:16:360:2:3523>
@@ -2856,7 +2599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3523" ;
     skos:prefLabel "Tuban"@eng-Latn ;
-    wdata:q7200235 "ID3523" ;
 .
 
 <urn:mdciii:1603:16:360:2:3524>
@@ -2865,7 +2607,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3524" ;
     skos:prefLabel "Lamongan"@eng-Latn ;
-    wdata:q7200235 "ID3524" ;
 .
 
 <urn:mdciii:1603:16:360:2:3525>
@@ -2874,7 +2615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3525" ;
     skos:prefLabel "Gresik"@eng-Latn ;
-    wdata:q7200235 "ID3525" ;
 .
 
 <urn:mdciii:1603:16:360:2:3526>
@@ -2883,7 +2623,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3526" ;
     skos:prefLabel "Bangkalan"@eng-Latn ;
-    wdata:q7200235 "ID3526" ;
 .
 
 <urn:mdciii:1603:16:360:2:3527>
@@ -2892,7 +2631,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3527" ;
     skos:prefLabel "Sampang"@eng-Latn ;
-    wdata:q7200235 "ID3527" ;
 .
 
 <urn:mdciii:1603:16:360:2:3528>
@@ -2901,7 +2639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3528" ;
     skos:prefLabel "Pamekasan"@eng-Latn ;
-    wdata:q7200235 "ID3528" ;
 .
 
 <urn:mdciii:1603:16:360:2:3529>
@@ -2910,7 +2647,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3529" ;
     skos:prefLabel "Sumenep"@eng-Latn ;
-    wdata:q7200235 "ID3529" ;
 .
 
 <urn:mdciii:1603:16:360:2:3571>
@@ -2919,7 +2655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3571" ;
     skos:prefLabel "Kota Kediri"@eng-Latn ;
-    wdata:q7200235 "ID3571" ;
 .
 
 <urn:mdciii:1603:16:360:2:3572>
@@ -2928,7 +2663,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3572" ;
     skos:prefLabel "Kota Blitar"@eng-Latn ;
-    wdata:q7200235 "ID3572" ;
 .
 
 <urn:mdciii:1603:16:360:2:3573>
@@ -2937,7 +2671,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3573" ;
     skos:prefLabel "Kota Malang"@eng-Latn ;
-    wdata:q7200235 "ID3573" ;
 .
 
 <urn:mdciii:1603:16:360:2:3574>
@@ -2946,7 +2679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3574" ;
     skos:prefLabel "Kota Probolinggo"@eng-Latn ;
-    wdata:q7200235 "ID3574" ;
 .
 
 <urn:mdciii:1603:16:360:2:3575>
@@ -2955,7 +2687,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3575" ;
     skos:prefLabel "Kota Pasuruan"@eng-Latn ;
-    wdata:q7200235 "ID3575" ;
 .
 
 <urn:mdciii:1603:16:360:2:3576>
@@ -2964,7 +2695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3576" ;
     skos:prefLabel "Kota Mojokerto"@eng-Latn ;
-    wdata:q7200235 "ID3576" ;
 .
 
 <urn:mdciii:1603:16:360:2:3577>
@@ -2973,7 +2703,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3577" ;
     skos:prefLabel "Kota Madiun"@eng-Latn ;
-    wdata:q7200235 "ID3577" ;
 .
 
 <urn:mdciii:1603:16:360:2:3578>
@@ -2982,7 +2711,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3578" ;
     skos:prefLabel "Kota Surabaya"@eng-Latn ;
-    wdata:q7200235 "ID3578" ;
 .
 
 <urn:mdciii:1603:16:360:2:3579>
@@ -2991,7 +2719,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3579" ;
     skos:prefLabel "Kota Batu"@eng-Latn ;
-    wdata:q7200235 "ID3579" ;
 .
 
 <urn:mdciii:1603:16:360:2:3601>
@@ -3000,7 +2727,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3601" ;
     skos:prefLabel "Pandeglang"@eng-Latn ;
-    wdata:q7200235 "ID3601" ;
 .
 
 <urn:mdciii:1603:16:360:2:3602>
@@ -3009,7 +2735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3602" ;
     skos:prefLabel "Lebak"@eng-Latn ;
-    wdata:q7200235 "ID3602" ;
 .
 
 <urn:mdciii:1603:16:360:2:3603>
@@ -3018,7 +2743,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3603" ;
     skos:prefLabel "Tangerang"@eng-Latn ;
-    wdata:q7200235 "ID3603" ;
 .
 
 <urn:mdciii:1603:16:360:2:3604>
@@ -3027,7 +2751,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3604" ;
     skos:prefLabel "Serang"@eng-Latn ;
-    wdata:q7200235 "ID3604" ;
 .
 
 <urn:mdciii:1603:16:360:2:3671>
@@ -3036,7 +2759,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3671" ;
     skos:prefLabel "Kota Tangerang"@eng-Latn ;
-    wdata:q7200235 "ID3671" ;
 .
 
 <urn:mdciii:1603:16:360:2:3672>
@@ -3045,7 +2767,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3672" ;
     skos:prefLabel "Kota Cilegon"@eng-Latn ;
-    wdata:q7200235 "ID3672" ;
 .
 
 <urn:mdciii:1603:16:360:2:3673>
@@ -3054,7 +2775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3673" ;
     skos:prefLabel "Kota Serang"@eng-Latn ;
-    wdata:q7200235 "ID3673" ;
 .
 
 <urn:mdciii:1603:16:360:2:3674>
@@ -3063,7 +2783,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:3674" ;
     skos:prefLabel "Kota Tangerang Selatan"@eng-Latn ;
-    wdata:q7200235 "ID3674" ;
 .
 
 <urn:mdciii:1603:16:360:2:5101>
@@ -3072,7 +2791,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5101" ;
     skos:prefLabel "Jembrana"@eng-Latn ;
-    wdata:q7200235 "ID5101" ;
 .
 
 <urn:mdciii:1603:16:360:2:5102>
@@ -3081,7 +2799,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5102" ;
     skos:prefLabel "Tabanan"@eng-Latn ;
-    wdata:q7200235 "ID5102" ;
 .
 
 <urn:mdciii:1603:16:360:2:5103>
@@ -3090,7 +2807,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5103" ;
     skos:prefLabel "Badung"@eng-Latn ;
-    wdata:q7200235 "ID5103" ;
 .
 
 <urn:mdciii:1603:16:360:2:5104>
@@ -3099,7 +2815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5104" ;
     skos:prefLabel "Gianyar"@eng-Latn ;
-    wdata:q7200235 "ID5104" ;
 .
 
 <urn:mdciii:1603:16:360:2:5105>
@@ -3108,7 +2823,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5105" ;
     skos:prefLabel "Klungkung"@eng-Latn ;
-    wdata:q7200235 "ID5105" ;
 .
 
 <urn:mdciii:1603:16:360:2:5106>
@@ -3117,7 +2831,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5106" ;
     skos:prefLabel "Bangli"@eng-Latn ;
-    wdata:q7200235 "ID5106" ;
 .
 
 <urn:mdciii:1603:16:360:2:5107>
@@ -3126,7 +2839,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5107" ;
     skos:prefLabel "Karang Asem"@eng-Latn ;
-    wdata:q7200235 "ID5107" ;
 .
 
 <urn:mdciii:1603:16:360:2:5108>
@@ -3135,7 +2847,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5108" ;
     skos:prefLabel "Buleleng"@eng-Latn ;
-    wdata:q7200235 "ID5108" ;
 .
 
 <urn:mdciii:1603:16:360:2:5171>
@@ -3144,7 +2855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5171" ;
     skos:prefLabel "Kota Denpasar"@eng-Latn ;
-    wdata:q7200235 "ID5171" ;
 .
 
 <urn:mdciii:1603:16:360:2:5201>
@@ -3153,7 +2863,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5201" ;
     skos:prefLabel "Lombok Barat"@eng-Latn ;
-    wdata:q7200235 "ID5201" ;
 .
 
 <urn:mdciii:1603:16:360:2:5202>
@@ -3162,7 +2871,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5202" ;
     skos:prefLabel "Lombok Tengah"@eng-Latn ;
-    wdata:q7200235 "ID5202" ;
 .
 
 <urn:mdciii:1603:16:360:2:5203>
@@ -3171,7 +2879,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5203" ;
     skos:prefLabel "Lombok Timur"@eng-Latn ;
-    wdata:q7200235 "ID5203" ;
 .
 
 <urn:mdciii:1603:16:360:2:5204>
@@ -3180,7 +2887,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5204" ;
     skos:prefLabel "Sumbawa"@eng-Latn ;
-    wdata:q7200235 "ID5204" ;
 .
 
 <urn:mdciii:1603:16:360:2:5205>
@@ -3189,7 +2895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5205" ;
     skos:prefLabel "Dompu"@eng-Latn ;
-    wdata:q7200235 "ID5205" ;
 .
 
 <urn:mdciii:1603:16:360:2:5206>
@@ -3198,7 +2903,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5206" ;
     skos:prefLabel "Bima"@eng-Latn ;
-    wdata:q7200235 "ID5206" ;
 .
 
 <urn:mdciii:1603:16:360:2:5207>
@@ -3207,7 +2911,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5207" ;
     skos:prefLabel "Sumbawa Barat"@eng-Latn ;
-    wdata:q7200235 "ID5207" ;
 .
 
 <urn:mdciii:1603:16:360:2:5208>
@@ -3216,7 +2919,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5208" ;
     skos:prefLabel "Lombok Utara"@eng-Latn ;
-    wdata:q7200235 "ID5208" ;
 .
 
 <urn:mdciii:1603:16:360:2:5271>
@@ -3225,7 +2927,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5271" ;
     skos:prefLabel "Kota Mataram"@eng-Latn ;
-    wdata:q7200235 "ID5271" ;
 .
 
 <urn:mdciii:1603:16:360:2:5272>
@@ -3234,7 +2935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5272" ;
     skos:prefLabel "Kota Bima"@eng-Latn ;
-    wdata:q7200235 "ID5272" ;
 .
 
 <urn:mdciii:1603:16:360:2:5301>
@@ -3243,7 +2943,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5301" ;
     skos:prefLabel "Sumba Barat"@eng-Latn ;
-    wdata:q7200235 "ID5301" ;
 .
 
 <urn:mdciii:1603:16:360:2:5302>
@@ -3252,7 +2951,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5302" ;
     skos:prefLabel "Sumba Timur"@eng-Latn ;
-    wdata:q7200235 "ID5302" ;
 .
 
 <urn:mdciii:1603:16:360:2:5303>
@@ -3261,7 +2959,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5303" ;
     skos:prefLabel "Kupang"@eng-Latn ;
-    wdata:q7200235 "ID5303" ;
 .
 
 <urn:mdciii:1603:16:360:2:5304>
@@ -3270,7 +2967,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5304" ;
     skos:prefLabel "Timor Tengah Selatan"@eng-Latn ;
-    wdata:q7200235 "ID5304" ;
 .
 
 <urn:mdciii:1603:16:360:2:5305>
@@ -3279,7 +2975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5305" ;
     skos:prefLabel "Timor Tengah Utara"@eng-Latn ;
-    wdata:q7200235 "ID5305" ;
 .
 
 <urn:mdciii:1603:16:360:2:5306>
@@ -3288,7 +2983,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5306" ;
     skos:prefLabel "Belu"@eng-Latn ;
-    wdata:q7200235 "ID5306" ;
 .
 
 <urn:mdciii:1603:16:360:2:5307>
@@ -3297,7 +2991,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5307" ;
     skos:prefLabel "Alor"@eng-Latn ;
-    wdata:q7200235 "ID5307" ;
 .
 
 <urn:mdciii:1603:16:360:2:5308>
@@ -3306,7 +2999,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5308" ;
     skos:prefLabel "Lembata"@eng-Latn ;
-    wdata:q7200235 "ID5308" ;
 .
 
 <urn:mdciii:1603:16:360:2:5309>
@@ -3315,7 +3007,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5309" ;
     skos:prefLabel "Flores Timur"@eng-Latn ;
-    wdata:q7200235 "ID5309" ;
 .
 
 <urn:mdciii:1603:16:360:2:5310>
@@ -3324,7 +3015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5310" ;
     skos:prefLabel "Sikka"@eng-Latn ;
-    wdata:q7200235 "ID5310" ;
 .
 
 <urn:mdciii:1603:16:360:2:5311>
@@ -3333,7 +3023,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5311" ;
     skos:prefLabel "Ende"@eng-Latn ;
-    wdata:q7200235 "ID5311" ;
 .
 
 <urn:mdciii:1603:16:360:2:5312>
@@ -3342,7 +3031,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5312" ;
     skos:prefLabel "Ngada"@eng-Latn ;
-    wdata:q7200235 "ID5312" ;
 .
 
 <urn:mdciii:1603:16:360:2:5313>
@@ -3351,7 +3039,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5313" ;
     skos:prefLabel "Manggarai"@eng-Latn ;
-    wdata:q7200235 "ID5313" ;
 .
 
 <urn:mdciii:1603:16:360:2:5314>
@@ -3360,7 +3047,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5314" ;
     skos:prefLabel "Rote Ndao"@eng-Latn ;
-    wdata:q7200235 "ID5314" ;
 .
 
 <urn:mdciii:1603:16:360:2:5315>
@@ -3369,7 +3055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5315" ;
     skos:prefLabel "Manggarai Barat"@eng-Latn ;
-    wdata:q7200235 "ID5315" ;
 .
 
 <urn:mdciii:1603:16:360:2:5316>
@@ -3378,7 +3063,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5316" ;
     skos:prefLabel "Sumba Tengah"@eng-Latn ;
-    wdata:q7200235 "ID5316" ;
 .
 
 <urn:mdciii:1603:16:360:2:5317>
@@ -3387,7 +3071,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5317" ;
     skos:prefLabel "Sumba Barat Daya"@eng-Latn ;
-    wdata:q7200235 "ID5317" ;
 .
 
 <urn:mdciii:1603:16:360:2:5318>
@@ -3396,7 +3079,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5318" ;
     skos:prefLabel "Nagekeo"@eng-Latn ;
-    wdata:q7200235 "ID5318" ;
 .
 
 <urn:mdciii:1603:16:360:2:5319>
@@ -3405,7 +3087,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5319" ;
     skos:prefLabel "Manggarai Timur"@eng-Latn ;
-    wdata:q7200235 "ID5319" ;
 .
 
 <urn:mdciii:1603:16:360:2:5320>
@@ -3414,7 +3095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5320" ;
     skos:prefLabel "Sabu Raijua"@eng-Latn ;
-    wdata:q7200235 "ID5320" ;
 .
 
 <urn:mdciii:1603:16:360:2:5321>
@@ -3423,7 +3103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5321" ;
     skos:prefLabel "Malaka"@eng-Latn ;
-    wdata:q7200235 "ID5321" ;
 .
 
 <urn:mdciii:1603:16:360:2:5371>
@@ -3432,7 +3111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:5371" ;
     skos:prefLabel "Kota Kupang"@eng-Latn ;
-    wdata:q7200235 "ID5371" ;
 .
 
 <urn:mdciii:1603:16:360:2:6101>
@@ -3441,7 +3119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6101" ;
     skos:prefLabel "Sambas"@eng-Latn ;
-    wdata:q7200235 "ID6101" ;
 .
 
 <urn:mdciii:1603:16:360:2:6102>
@@ -3450,7 +3127,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6102" ;
     skos:prefLabel "Bengkayang"@eng-Latn ;
-    wdata:q7200235 "ID6102" ;
 .
 
 <urn:mdciii:1603:16:360:2:6103>
@@ -3459,7 +3135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6103" ;
     skos:prefLabel "Landak"@eng-Latn ;
-    wdata:q7200235 "ID6103" ;
 .
 
 <urn:mdciii:1603:16:360:2:6104>
@@ -3468,7 +3143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6104" ;
     skos:prefLabel "Mempawah"@eng-Latn ;
-    wdata:q7200235 "ID6104" ;
 .
 
 <urn:mdciii:1603:16:360:2:6105>
@@ -3477,7 +3151,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6105" ;
     skos:prefLabel "Sanggau"@eng-Latn ;
-    wdata:q7200235 "ID6105" ;
 .
 
 <urn:mdciii:1603:16:360:2:6106>
@@ -3486,7 +3159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6106" ;
     skos:prefLabel "Ketapang"@eng-Latn ;
-    wdata:q7200235 "ID6106" ;
 .
 
 <urn:mdciii:1603:16:360:2:6107>
@@ -3495,7 +3167,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6107" ;
     skos:prefLabel "Sintang"@eng-Latn ;
-    wdata:q7200235 "ID6107" ;
 .
 
 <urn:mdciii:1603:16:360:2:6108>
@@ -3504,7 +3175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6108" ;
     skos:prefLabel "Kapuas Hulu"@eng-Latn ;
-    wdata:q7200235 "ID6108" ;
 .
 
 <urn:mdciii:1603:16:360:2:6109>
@@ -3513,7 +3183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6109" ;
     skos:prefLabel "Sekadau"@eng-Latn ;
-    wdata:q7200235 "ID6109" ;
 .
 
 <urn:mdciii:1603:16:360:2:6110>
@@ -3522,7 +3191,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6110" ;
     skos:prefLabel "Melawi"@eng-Latn ;
-    wdata:q7200235 "ID6110" ;
 .
 
 <urn:mdciii:1603:16:360:2:6111>
@@ -3531,7 +3199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6111" ;
     skos:prefLabel "Kayong Utara"@eng-Latn ;
-    wdata:q7200235 "ID6111" ;
 .
 
 <urn:mdciii:1603:16:360:2:6112>
@@ -3540,7 +3207,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6112" ;
     skos:prefLabel "Kubu Raya"@eng-Latn ;
-    wdata:q7200235 "ID6112" ;
 .
 
 <urn:mdciii:1603:16:360:2:6171>
@@ -3549,7 +3215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6171" ;
     skos:prefLabel "Kota Pontianak"@eng-Latn ;
-    wdata:q7200235 "ID6171" ;
 .
 
 <urn:mdciii:1603:16:360:2:6172>
@@ -3558,7 +3223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6172" ;
     skos:prefLabel "Kota Singkawang"@eng-Latn ;
-    wdata:q7200235 "ID6172" ;
 .
 
 <urn:mdciii:1603:16:360:2:6201>
@@ -3567,7 +3231,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6201" ;
     skos:prefLabel "Kotawaringin Barat"@eng-Latn ;
-    wdata:q7200235 "ID6201" ;
 .
 
 <urn:mdciii:1603:16:360:2:6202>
@@ -3576,7 +3239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6202" ;
     skos:prefLabel "Kotawaringin Timur"@eng-Latn ;
-    wdata:q7200235 "ID6202" ;
 .
 
 <urn:mdciii:1603:16:360:2:6203>
@@ -3585,7 +3247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6203" ;
     skos:prefLabel "Kapuas"@eng-Latn ;
-    wdata:q7200235 "ID6203" ;
 .
 
 <urn:mdciii:1603:16:360:2:6204>
@@ -3594,7 +3255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6204" ;
     skos:prefLabel "Barito Selatan"@eng-Latn ;
-    wdata:q7200235 "ID6204" ;
 .
 
 <urn:mdciii:1603:16:360:2:6205>
@@ -3603,7 +3263,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6205" ;
     skos:prefLabel "Barito Utara"@eng-Latn ;
-    wdata:q7200235 "ID6205" ;
 .
 
 <urn:mdciii:1603:16:360:2:6206>
@@ -3612,7 +3271,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6206" ;
     skos:prefLabel "Sukamara"@eng-Latn ;
-    wdata:q7200235 "ID6206" ;
 .
 
 <urn:mdciii:1603:16:360:2:6207>
@@ -3621,7 +3279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6207" ;
     skos:prefLabel "Lamandau"@eng-Latn ;
-    wdata:q7200235 "ID6207" ;
 .
 
 <urn:mdciii:1603:16:360:2:6208>
@@ -3630,7 +3287,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6208" ;
     skos:prefLabel "Seruyan"@eng-Latn ;
-    wdata:q7200235 "ID6208" ;
 .
 
 <urn:mdciii:1603:16:360:2:6209>
@@ -3639,7 +3295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6209" ;
     skos:prefLabel "Katingan"@eng-Latn ;
-    wdata:q7200235 "ID6209" ;
 .
 
 <urn:mdciii:1603:16:360:2:6210>
@@ -3648,7 +3303,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6210" ;
     skos:prefLabel "Pulang Pisau"@eng-Latn ;
-    wdata:q7200235 "ID6210" ;
 .
 
 <urn:mdciii:1603:16:360:2:6211>
@@ -3657,7 +3311,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6211" ;
     skos:prefLabel "Gunung Mas"@eng-Latn ;
-    wdata:q7200235 "ID6211" ;
 .
 
 <urn:mdciii:1603:16:360:2:6212>
@@ -3666,7 +3319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6212" ;
     skos:prefLabel "Barito Timur"@eng-Latn ;
-    wdata:q7200235 "ID6212" ;
 .
 
 <urn:mdciii:1603:16:360:2:6213>
@@ -3675,7 +3327,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6213" ;
     skos:prefLabel "Murung Raya"@eng-Latn ;
-    wdata:q7200235 "ID6213" ;
 .
 
 <urn:mdciii:1603:16:360:2:6271>
@@ -3684,7 +3335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6271" ;
     skos:prefLabel "Kota Palangka Raya"@eng-Latn ;
-    wdata:q7200235 "ID6271" ;
 .
 
 <urn:mdciii:1603:16:360:2:6301>
@@ -3693,7 +3343,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6301" ;
     skos:prefLabel "Tanah Laut"@eng-Latn ;
-    wdata:q7200235 "ID6301" ;
 .
 
 <urn:mdciii:1603:16:360:2:6302>
@@ -3702,7 +3351,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6302" ;
     skos:prefLabel "Kota Baru"@eng-Latn ;
-    wdata:q7200235 "ID6302" ;
 .
 
 <urn:mdciii:1603:16:360:2:6303>
@@ -3711,7 +3359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6303" ;
     skos:prefLabel "Banjar"@eng-Latn ;
-    wdata:q7200235 "ID6303" ;
 .
 
 <urn:mdciii:1603:16:360:2:6304>
@@ -3720,7 +3367,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6304" ;
     skos:prefLabel "Barito Kuala"@eng-Latn ;
-    wdata:q7200235 "ID6304" ;
 .
 
 <urn:mdciii:1603:16:360:2:6305>
@@ -3729,7 +3375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6305" ;
     skos:prefLabel "Tapin"@eng-Latn ;
-    wdata:q7200235 "ID6305" ;
 .
 
 <urn:mdciii:1603:16:360:2:6306>
@@ -3738,7 +3383,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6306" ;
     skos:prefLabel "Hulu Sungai Selatan"@eng-Latn ;
-    wdata:q7200235 "ID6306" ;
 .
 
 <urn:mdciii:1603:16:360:2:6307>
@@ -3747,7 +3391,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6307" ;
     skos:prefLabel "Hulu Sungai Tengah"@eng-Latn ;
-    wdata:q7200235 "ID6307" ;
 .
 
 <urn:mdciii:1603:16:360:2:6308>
@@ -3756,7 +3399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6308" ;
     skos:prefLabel "Hulu Sungai Utara"@eng-Latn ;
-    wdata:q7200235 "ID6308" ;
 .
 
 <urn:mdciii:1603:16:360:2:6309>
@@ -3765,7 +3407,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6309" ;
     skos:prefLabel "Tabalong"@eng-Latn ;
-    wdata:q7200235 "ID6309" ;
 .
 
 <urn:mdciii:1603:16:360:2:6310>
@@ -3774,7 +3415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6310" ;
     skos:prefLabel "Tanah Bumbu"@eng-Latn ;
-    wdata:q7200235 "ID6310" ;
 .
 
 <urn:mdciii:1603:16:360:2:6311>
@@ -3783,7 +3423,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6311" ;
     skos:prefLabel "Balangan"@eng-Latn ;
-    wdata:q7200235 "ID6311" ;
 .
 
 <urn:mdciii:1603:16:360:2:6371>
@@ -3792,7 +3431,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6371" ;
     skos:prefLabel "Kota Banjarmasin"@eng-Latn ;
-    wdata:q7200235 "ID6371" ;
 .
 
 <urn:mdciii:1603:16:360:2:6372>
@@ -3801,7 +3439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6372" ;
     skos:prefLabel "Kota Banjar Baru"@eng-Latn ;
-    wdata:q7200235 "ID6372" ;
 .
 
 <urn:mdciii:1603:16:360:2:6401>
@@ -3810,7 +3447,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6401" ;
     skos:prefLabel "Paser"@eng-Latn ;
-    wdata:q7200235 "ID6401" ;
 .
 
 <urn:mdciii:1603:16:360:2:6402>
@@ -3819,7 +3455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6402" ;
     skos:prefLabel "Kutai Barat"@eng-Latn ;
-    wdata:q7200235 "ID6402" ;
 .
 
 <urn:mdciii:1603:16:360:2:6403>
@@ -3828,7 +3463,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6403" ;
     skos:prefLabel "Kutai Kartanegara"@eng-Latn ;
-    wdata:q7200235 "ID6403" ;
 .
 
 <urn:mdciii:1603:16:360:2:6404>
@@ -3837,7 +3471,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6404" ;
     skos:prefLabel "Kutai Timur"@eng-Latn ;
-    wdata:q7200235 "ID6404" ;
 .
 
 <urn:mdciii:1603:16:360:2:6405>
@@ -3846,7 +3479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6405" ;
     skos:prefLabel "Berau"@eng-Latn ;
-    wdata:q7200235 "ID6405" ;
 .
 
 <urn:mdciii:1603:16:360:2:6409>
@@ -3855,7 +3487,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6409" ;
     skos:prefLabel "Penajam Paser Utara"@eng-Latn ;
-    wdata:q7200235 "ID6409" ;
 .
 
 <urn:mdciii:1603:16:360:2:6411>
@@ -3864,7 +3495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6411" ;
     skos:prefLabel "Mahakam Hulu"@eng-Latn ;
-    wdata:q7200235 "ID6411" ;
 .
 
 <urn:mdciii:1603:16:360:2:6471>
@@ -3873,7 +3503,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6471" ;
     skos:prefLabel "Kota Balikpapan"@eng-Latn ;
-    wdata:q7200235 "ID6471" ;
 .
 
 <urn:mdciii:1603:16:360:2:6472>
@@ -3882,7 +3511,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6472" ;
     skos:prefLabel "Kota Samarinda"@eng-Latn ;
-    wdata:q7200235 "ID6472" ;
 .
 
 <urn:mdciii:1603:16:360:2:6474>
@@ -3891,7 +3519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6474" ;
     skos:prefLabel "Kota Bontang"@eng-Latn ;
-    wdata:q7200235 "ID6474" ;
 .
 
 <urn:mdciii:1603:16:360:2:6501>
@@ -3900,7 +3527,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6501" ;
     skos:prefLabel "Malinau"@eng-Latn ;
-    wdata:q7200235 "ID6501" ;
 .
 
 <urn:mdciii:1603:16:360:2:6502>
@@ -3909,7 +3535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6502" ;
     skos:prefLabel "Bulungan"@eng-Latn ;
-    wdata:q7200235 "ID6502" ;
 .
 
 <urn:mdciii:1603:16:360:2:6503>
@@ -3918,7 +3543,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6503" ;
     skos:prefLabel "Tana Tidung"@eng-Latn ;
-    wdata:q7200235 "ID6503" ;
 .
 
 <urn:mdciii:1603:16:360:2:6504>
@@ -3927,7 +3551,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6504" ;
     skos:prefLabel "Nunukan"@eng-Latn ;
-    wdata:q7200235 "ID6504" ;
 .
 
 <urn:mdciii:1603:16:360:2:6571>
@@ -3936,7 +3559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:6571" ;
     skos:prefLabel "Kota Tarakan"@eng-Latn ;
-    wdata:q7200235 "ID6571" ;
 .
 
 <urn:mdciii:1603:16:360:2:7101>
@@ -3945,7 +3567,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7101" ;
     skos:prefLabel "Bolaang Mongondow"@eng-Latn ;
-    wdata:q7200235 "ID7101" ;
 .
 
 <urn:mdciii:1603:16:360:2:7102>
@@ -3954,7 +3575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7102" ;
     skos:prefLabel "Minahasa"@eng-Latn ;
-    wdata:q7200235 "ID7102" ;
 .
 
 <urn:mdciii:1603:16:360:2:7103>
@@ -3963,7 +3583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7103" ;
     skos:prefLabel "Kepulauan Sangihe"@eng-Latn ;
-    wdata:q7200235 "ID7103" ;
 .
 
 <urn:mdciii:1603:16:360:2:7104>
@@ -3972,7 +3591,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7104" ;
     skos:prefLabel "Kepulauan Talaud"@eng-Latn ;
-    wdata:q7200235 "ID7104" ;
 .
 
 <urn:mdciii:1603:16:360:2:7105>
@@ -3981,7 +3599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7105" ;
     skos:prefLabel "Minahasa Selatan"@eng-Latn ;
-    wdata:q7200235 "ID7105" ;
 .
 
 <urn:mdciii:1603:16:360:2:7106>
@@ -3990,7 +3607,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7106" ;
     skos:prefLabel "Minahasa Utara"@eng-Latn ;
-    wdata:q7200235 "ID7106" ;
 .
 
 <urn:mdciii:1603:16:360:2:7107>
@@ -3999,7 +3615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7107" ;
     skos:prefLabel "Bolaang Mongondow Utara"@eng-Latn ;
-    wdata:q7200235 "ID7107" ;
 .
 
 <urn:mdciii:1603:16:360:2:7108>
@@ -4008,7 +3623,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7108" ;
     skos:prefLabel "Siau Tagulandang Biaro"@eng-Latn ;
-    wdata:q7200235 "ID7108" ;
 .
 
 <urn:mdciii:1603:16:360:2:7109>
@@ -4017,7 +3631,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7109" ;
     skos:prefLabel "Minahasa Tenggara"@eng-Latn ;
-    wdata:q7200235 "ID7109" ;
 .
 
 <urn:mdciii:1603:16:360:2:7110>
@@ -4026,7 +3639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7110" ;
     skos:prefLabel "Bolaang Mongondow Selatan"@eng-Latn ;
-    wdata:q7200235 "ID7110" ;
 .
 
 <urn:mdciii:1603:16:360:2:7111>
@@ -4035,7 +3647,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7111" ;
     skos:prefLabel "Bolaang Mongondow Timur"@eng-Latn ;
-    wdata:q7200235 "ID7111" ;
 .
 
 <urn:mdciii:1603:16:360:2:7171>
@@ -4044,7 +3655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7171" ;
     skos:prefLabel "Kota Manado"@eng-Latn ;
-    wdata:q7200235 "ID7171" ;
 .
 
 <urn:mdciii:1603:16:360:2:7172>
@@ -4053,7 +3663,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7172" ;
     skos:prefLabel "Kota Bitung"@eng-Latn ;
-    wdata:q7200235 "ID7172" ;
 .
 
 <urn:mdciii:1603:16:360:2:7173>
@@ -4062,7 +3671,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7173" ;
     skos:prefLabel "Kota Tomohon"@eng-Latn ;
-    wdata:q7200235 "ID7173" ;
 .
 
 <urn:mdciii:1603:16:360:2:7174>
@@ -4071,7 +3679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7174" ;
     skos:prefLabel "Kota Kotamobagu"@eng-Latn ;
-    wdata:q7200235 "ID7174" ;
 .
 
 <urn:mdciii:1603:16:360:2:7188>
@@ -4080,7 +3687,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7188" ;
     skos:prefLabel "Danau"@eng-Latn ;
-    wdata:q7200235 "ID7188" ;
 .
 
 <urn:mdciii:1603:16:360:2:7201>
@@ -4089,7 +3695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7201" ;
     skos:prefLabel "Banggai Kepulauan"@eng-Latn ;
-    wdata:q7200235 "ID7201" ;
 .
 
 <urn:mdciii:1603:16:360:2:7202>
@@ -4098,7 +3703,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7202" ;
     skos:prefLabel "Banggai"@eng-Latn ;
-    wdata:q7200235 "ID7202" ;
 .
 
 <urn:mdciii:1603:16:360:2:7203>
@@ -4107,7 +3711,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7203" ;
     skos:prefLabel "Morowali"@eng-Latn ;
-    wdata:q7200235 "ID7203" ;
 .
 
 <urn:mdciii:1603:16:360:2:7204>
@@ -4116,7 +3719,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7204" ;
     skos:prefLabel "Poso"@eng-Latn ;
-    wdata:q7200235 "ID7204" ;
 .
 
 <urn:mdciii:1603:16:360:2:7205>
@@ -4125,7 +3727,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7205" ;
     skos:prefLabel "Donggala"@eng-Latn ;
-    wdata:q7200235 "ID7205" ;
 .
 
 <urn:mdciii:1603:16:360:2:7206>
@@ -4134,7 +3735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7206" ;
     skos:prefLabel "Toli-Toli"@eng-Latn ;
-    wdata:q7200235 "ID7206" ;
 .
 
 <urn:mdciii:1603:16:360:2:7207>
@@ -4143,7 +3743,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7207" ;
     skos:prefLabel "Buol"@eng-Latn ;
-    wdata:q7200235 "ID7207" ;
 .
 
 <urn:mdciii:1603:16:360:2:7208>
@@ -4152,7 +3751,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7208" ;
     skos:prefLabel "Parigi Moutong"@eng-Latn ;
-    wdata:q7200235 "ID7208" ;
 .
 
 <urn:mdciii:1603:16:360:2:7209>
@@ -4161,7 +3759,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7209" ;
     skos:prefLabel "Tojo Una-Una"@eng-Latn ;
-    wdata:q7200235 "ID7209" ;
 .
 
 <urn:mdciii:1603:16:360:2:7210>
@@ -4170,7 +3767,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7210" ;
     skos:prefLabel "Sigi"@eng-Latn ;
-    wdata:q7200235 "ID7210" ;
 .
 
 <urn:mdciii:1603:16:360:2:7211>
@@ -4179,7 +3775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7211" ;
     skos:prefLabel "Banggai Laut"@eng-Latn ;
-    wdata:q7200235 "ID7211" ;
 .
 
 <urn:mdciii:1603:16:360:2:7212>
@@ -4188,7 +3783,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7212" ;
     skos:prefLabel "Morowali Utara"@eng-Latn ;
-    wdata:q7200235 "ID7212" ;
 .
 
 <urn:mdciii:1603:16:360:2:7271>
@@ -4197,7 +3791,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7271" ;
     skos:prefLabel "Kota Palu"@eng-Latn ;
-    wdata:q7200235 "ID7271" ;
 .
 
 <urn:mdciii:1603:16:360:2:7301>
@@ -4206,7 +3799,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7301" ;
     skos:prefLabel "Kepulauan Selayar"@eng-Latn ;
-    wdata:q7200235 "ID7301" ;
 .
 
 <urn:mdciii:1603:16:360:2:7302>
@@ -4215,7 +3807,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7302" ;
     skos:prefLabel "Bulukumba"@eng-Latn ;
-    wdata:q7200235 "ID7302" ;
 .
 
 <urn:mdciii:1603:16:360:2:7303>
@@ -4224,7 +3815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7303" ;
     skos:prefLabel "Bantaeng"@eng-Latn ;
-    wdata:q7200235 "ID7303" ;
 .
 
 <urn:mdciii:1603:16:360:2:7304>
@@ -4233,7 +3823,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7304" ;
     skos:prefLabel "Jeneponto"@eng-Latn ;
-    wdata:q7200235 "ID7304" ;
 .
 
 <urn:mdciii:1603:16:360:2:7305>
@@ -4242,7 +3831,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7305" ;
     skos:prefLabel "Takalar"@eng-Latn ;
-    wdata:q7200235 "ID7305" ;
 .
 
 <urn:mdciii:1603:16:360:2:7306>
@@ -4251,7 +3839,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7306" ;
     skos:prefLabel "Gowa"@eng-Latn ;
-    wdata:q7200235 "ID7306" ;
 .
 
 <urn:mdciii:1603:16:360:2:7307>
@@ -4260,7 +3847,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7307" ;
     skos:prefLabel "Sinjai"@eng-Latn ;
-    wdata:q7200235 "ID7307" ;
 .
 
 <urn:mdciii:1603:16:360:2:7308>
@@ -4269,7 +3855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7308" ;
     skos:prefLabel "Maros"@eng-Latn ;
-    wdata:q7200235 "ID7308" ;
 .
 
 <urn:mdciii:1603:16:360:2:7309>
@@ -4278,7 +3863,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7309" ;
     skos:prefLabel "Pangkajene Dan Kepulauan"@eng-Latn ;
-    wdata:q7200235 "ID7309" ;
 .
 
 <urn:mdciii:1603:16:360:2:7310>
@@ -4287,7 +3871,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7310" ;
     skos:prefLabel "Barru"@eng-Latn ;
-    wdata:q7200235 "ID7310" ;
 .
 
 <urn:mdciii:1603:16:360:2:7311>
@@ -4296,7 +3879,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7311" ;
     skos:prefLabel "Bone"@eng-Latn ;
-    wdata:q7200235 "ID7311" ;
 .
 
 <urn:mdciii:1603:16:360:2:7312>
@@ -4305,7 +3887,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7312" ;
     skos:prefLabel "Soppeng"@eng-Latn ;
-    wdata:q7200235 "ID7312" ;
 .
 
 <urn:mdciii:1603:16:360:2:7313>
@@ -4314,7 +3895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7313" ;
     skos:prefLabel "Wajo"@eng-Latn ;
-    wdata:q7200235 "ID7313" ;
 .
 
 <urn:mdciii:1603:16:360:2:7314>
@@ -4323,7 +3903,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7314" ;
     skos:prefLabel "Sidenreng Rappang"@eng-Latn ;
-    wdata:q7200235 "ID7314" ;
 .
 
 <urn:mdciii:1603:16:360:2:7315>
@@ -4332,7 +3911,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7315" ;
     skos:prefLabel "Pinrang"@eng-Latn ;
-    wdata:q7200235 "ID7315" ;
 .
 
 <urn:mdciii:1603:16:360:2:7316>
@@ -4341,7 +3919,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7316" ;
     skos:prefLabel "Enrekang"@eng-Latn ;
-    wdata:q7200235 "ID7316" ;
 .
 
 <urn:mdciii:1603:16:360:2:7317>
@@ -4350,7 +3927,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7317" ;
     skos:prefLabel "Luwu"@eng-Latn ;
-    wdata:q7200235 "ID7317" ;
 .
 
 <urn:mdciii:1603:16:360:2:7318>
@@ -4359,7 +3935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7318" ;
     skos:prefLabel "Tana Toraja"@eng-Latn ;
-    wdata:q7200235 "ID7318" ;
 .
 
 <urn:mdciii:1603:16:360:2:7322>
@@ -4368,7 +3943,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7322" ;
     skos:prefLabel "Luwu Utara"@eng-Latn ;
-    wdata:q7200235 "ID7322" ;
 .
 
 <urn:mdciii:1603:16:360:2:7325>
@@ -4377,7 +3951,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7325" ;
     skos:prefLabel "Luwu Timur"@eng-Latn ;
-    wdata:q7200235 "ID7325" ;
 .
 
 <urn:mdciii:1603:16:360:2:7326>
@@ -4386,7 +3959,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7326" ;
     skos:prefLabel "Toraja Utara"@eng-Latn ;
-    wdata:q7200235 "ID7326" ;
 .
 
 <urn:mdciii:1603:16:360:2:7371>
@@ -4395,7 +3967,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7371" ;
     skos:prefLabel "Kota Makassar"@eng-Latn ;
-    wdata:q7200235 "ID7371" ;
 .
 
 <urn:mdciii:1603:16:360:2:7372>
@@ -4404,7 +3975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7372" ;
     skos:prefLabel "Kota Parepare"@eng-Latn ;
-    wdata:q7200235 "ID7372" ;
 .
 
 <urn:mdciii:1603:16:360:2:7373>
@@ -4413,7 +3983,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7373" ;
     skos:prefLabel "Kota Palopo"@eng-Latn ;
-    wdata:q7200235 "ID7373" ;
 .
 
 <urn:mdciii:1603:16:360:2:7401>
@@ -4422,7 +3991,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7401" ;
     skos:prefLabel "Buton"@eng-Latn ;
-    wdata:q7200235 "ID7401" ;
 .
 
 <urn:mdciii:1603:16:360:2:7402>
@@ -4431,7 +3999,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7402" ;
     skos:prefLabel "Muna"@eng-Latn ;
-    wdata:q7200235 "ID7402" ;
 .
 
 <urn:mdciii:1603:16:360:2:7403>
@@ -4440,7 +4007,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7403" ;
     skos:prefLabel "Konawe"@eng-Latn ;
-    wdata:q7200235 "ID7403" ;
 .
 
 <urn:mdciii:1603:16:360:2:7404>
@@ -4449,7 +4015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7404" ;
     skos:prefLabel "Kolaka"@eng-Latn ;
-    wdata:q7200235 "ID7404" ;
 .
 
 <urn:mdciii:1603:16:360:2:7405>
@@ -4458,7 +4023,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7405" ;
     skos:prefLabel "Konawe Selatan"@eng-Latn ;
-    wdata:q7200235 "ID7405" ;
 .
 
 <urn:mdciii:1603:16:360:2:7406>
@@ -4467,7 +4031,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7406" ;
     skos:prefLabel "Bombana"@eng-Latn ;
-    wdata:q7200235 "ID7406" ;
 .
 
 <urn:mdciii:1603:16:360:2:7407>
@@ -4476,7 +4039,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7407" ;
     skos:prefLabel "Wakatobi"@eng-Latn ;
-    wdata:q7200235 "ID7407" ;
 .
 
 <urn:mdciii:1603:16:360:2:7408>
@@ -4485,7 +4047,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7408" ;
     skos:prefLabel "Kolaka Utara"@eng-Latn ;
-    wdata:q7200235 "ID7408" ;
 .
 
 <urn:mdciii:1603:16:360:2:7409>
@@ -4494,7 +4055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7409" ;
     skos:prefLabel "Buton Utara"@eng-Latn ;
-    wdata:q7200235 "ID7409" ;
 .
 
 <urn:mdciii:1603:16:360:2:7410>
@@ -4503,7 +4063,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7410" ;
     skos:prefLabel "Konawe Utara"@eng-Latn ;
-    wdata:q7200235 "ID7410" ;
 .
 
 <urn:mdciii:1603:16:360:2:7411>
@@ -4512,7 +4071,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7411" ;
     skos:prefLabel "Kolaka Timur"@eng-Latn ;
-    wdata:q7200235 "ID7411" ;
 .
 
 <urn:mdciii:1603:16:360:2:7412>
@@ -4521,7 +4079,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7412" ;
     skos:prefLabel "Konawe Kepulauan"@eng-Latn ;
-    wdata:q7200235 "ID7412" ;
 .
 
 <urn:mdciii:1603:16:360:2:7413>
@@ -4530,7 +4087,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7413" ;
     skos:prefLabel "Muna Barat"@eng-Latn ;
-    wdata:q7200235 "ID7413" ;
 .
 
 <urn:mdciii:1603:16:360:2:7414>
@@ -4539,7 +4095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7414" ;
     skos:prefLabel "Buton Tengah"@eng-Latn ;
-    wdata:q7200235 "ID7414" ;
 .
 
 <urn:mdciii:1603:16:360:2:7415>
@@ -4548,7 +4103,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7415" ;
     skos:prefLabel "Buton Selatan"@eng-Latn ;
-    wdata:q7200235 "ID7415" ;
 .
 
 <urn:mdciii:1603:16:360:2:7471>
@@ -4557,7 +4111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7471" ;
     skos:prefLabel "Kota Kendari"@eng-Latn ;
-    wdata:q7200235 "ID7471" ;
 .
 
 <urn:mdciii:1603:16:360:2:7472>
@@ -4566,7 +4119,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7472" ;
     skos:prefLabel "Kota Baubau"@eng-Latn ;
-    wdata:q7200235 "ID7472" ;
 .
 
 <urn:mdciii:1603:16:360:2:7501>
@@ -4575,7 +4127,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7501" ;
     skos:prefLabel "Boalemo"@eng-Latn ;
-    wdata:q7200235 "ID7501" ;
 .
 
 <urn:mdciii:1603:16:360:2:7502>
@@ -4584,7 +4135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7502" ;
     skos:prefLabel "Gorontalo"@eng-Latn ;
-    wdata:q7200235 "ID7502" ;
 .
 
 <urn:mdciii:1603:16:360:2:7503>
@@ -4593,7 +4143,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7503" ;
     skos:prefLabel "Pohuwato"@eng-Latn ;
-    wdata:q7200235 "ID7503" ;
 .
 
 <urn:mdciii:1603:16:360:2:7504>
@@ -4602,7 +4151,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7504" ;
     skos:prefLabel "Bone Bolango"@eng-Latn ;
-    wdata:q7200235 "ID7504" ;
 .
 
 <urn:mdciii:1603:16:360:2:7505>
@@ -4611,7 +4159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7505" ;
     skos:prefLabel "Gorontalo Utara"@eng-Latn ;
-    wdata:q7200235 "ID7505" ;
 .
 
 <urn:mdciii:1603:16:360:2:7571>
@@ -4620,7 +4167,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7571" ;
     skos:prefLabel "Kota Gorontalo"@eng-Latn ;
-    wdata:q7200235 "ID7571" ;
 .
 
 <urn:mdciii:1603:16:360:2:7601>
@@ -4629,7 +4175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7601" ;
     skos:prefLabel "Majene"@eng-Latn ;
-    wdata:q7200235 "ID7601" ;
 .
 
 <urn:mdciii:1603:16:360:2:7602>
@@ -4638,7 +4183,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7602" ;
     skos:prefLabel "Polewali Mandar"@eng-Latn ;
-    wdata:q7200235 "ID7602" ;
 .
 
 <urn:mdciii:1603:16:360:2:7603>
@@ -4647,7 +4191,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7603" ;
     skos:prefLabel "Mamasa"@eng-Latn ;
-    wdata:q7200235 "ID7603" ;
 .
 
 <urn:mdciii:1603:16:360:2:7604>
@@ -4656,7 +4199,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7604" ;
     skos:prefLabel "Mamuju"@eng-Latn ;
-    wdata:q7200235 "ID7604" ;
 .
 
 <urn:mdciii:1603:16:360:2:7605>
@@ -4665,7 +4207,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7605" ;
     skos:prefLabel "Mamuju Utara"@eng-Latn ;
-    wdata:q7200235 "ID7605" ;
 .
 
 <urn:mdciii:1603:16:360:2:7606>
@@ -4674,7 +4215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:7606" ;
     skos:prefLabel "Mamuju Tengah"@eng-Latn ;
-    wdata:q7200235 "ID7606" ;
 .
 
 <urn:mdciii:1603:16:360:2:8101>
@@ -4683,7 +4223,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8101" ;
     skos:prefLabel "Maluku Tenggara Barat"@eng-Latn ;
-    wdata:q7200235 "ID8101" ;
 .
 
 <urn:mdciii:1603:16:360:2:8102>
@@ -4692,7 +4231,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8102" ;
     skos:prefLabel "Maluku Tenggara"@eng-Latn ;
-    wdata:q7200235 "ID8102" ;
 .
 
 <urn:mdciii:1603:16:360:2:8103>
@@ -4701,7 +4239,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8103" ;
     skos:prefLabel "Maluku Tengah"@eng-Latn ;
-    wdata:q7200235 "ID8103" ;
 .
 
 <urn:mdciii:1603:16:360:2:8104>
@@ -4710,7 +4247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8104" ;
     skos:prefLabel "Buru"@eng-Latn ;
-    wdata:q7200235 "ID8104" ;
 .
 
 <urn:mdciii:1603:16:360:2:8105>
@@ -4719,7 +4255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8105" ;
     skos:prefLabel "Kepulauan Aru"@eng-Latn ;
-    wdata:q7200235 "ID8105" ;
 .
 
 <urn:mdciii:1603:16:360:2:8106>
@@ -4728,7 +4263,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8106" ;
     skos:prefLabel "Seram Bagian Barat"@eng-Latn ;
-    wdata:q7200235 "ID8106" ;
 .
 
 <urn:mdciii:1603:16:360:2:8107>
@@ -4737,7 +4271,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8107" ;
     skos:prefLabel "Seram Bagian Timur"@eng-Latn ;
-    wdata:q7200235 "ID8107" ;
 .
 
 <urn:mdciii:1603:16:360:2:8108>
@@ -4746,7 +4279,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8108" ;
     skos:prefLabel "Maluku Barat Daya"@eng-Latn ;
-    wdata:q7200235 "ID8108" ;
 .
 
 <urn:mdciii:1603:16:360:2:8109>
@@ -4755,7 +4287,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8109" ;
     skos:prefLabel "Buru Selatan"@eng-Latn ;
-    wdata:q7200235 "ID8109" ;
 .
 
 <urn:mdciii:1603:16:360:2:8171>
@@ -4764,7 +4295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8171" ;
     skos:prefLabel "Kota Ambon"@eng-Latn ;
-    wdata:q7200235 "ID8171" ;
 .
 
 <urn:mdciii:1603:16:360:2:8172>
@@ -4773,7 +4303,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8172" ;
     skos:prefLabel "Kota Tual"@eng-Latn ;
-    wdata:q7200235 "ID8172" ;
 .
 
 <urn:mdciii:1603:16:360:2:8201>
@@ -4782,7 +4311,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8201" ;
     skos:prefLabel "Halmahera Barat"@eng-Latn ;
-    wdata:q7200235 "ID8201" ;
 .
 
 <urn:mdciii:1603:16:360:2:8202>
@@ -4791,7 +4319,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8202" ;
     skos:prefLabel "Halmahera Tengah"@eng-Latn ;
-    wdata:q7200235 "ID8202" ;
 .
 
 <urn:mdciii:1603:16:360:2:8203>
@@ -4800,7 +4327,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8203" ;
     skos:prefLabel "Kepulauan Sula"@eng-Latn ;
-    wdata:q7200235 "ID8203" ;
 .
 
 <urn:mdciii:1603:16:360:2:8204>
@@ -4809,7 +4335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8204" ;
     skos:prefLabel "Halmahera Selatan"@eng-Latn ;
-    wdata:q7200235 "ID8204" ;
 .
 
 <urn:mdciii:1603:16:360:2:8205>
@@ -4818,7 +4343,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8205" ;
     skos:prefLabel "Halmahera Utara"@eng-Latn ;
-    wdata:q7200235 "ID8205" ;
 .
 
 <urn:mdciii:1603:16:360:2:8206>
@@ -4827,7 +4351,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8206" ;
     skos:prefLabel "Halmahera Timur"@eng-Latn ;
-    wdata:q7200235 "ID8206" ;
 .
 
 <urn:mdciii:1603:16:360:2:8207>
@@ -4836,7 +4359,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8207" ;
     skos:prefLabel "Pulau Morotai"@eng-Latn ;
-    wdata:q7200235 "ID8207" ;
 .
 
 <urn:mdciii:1603:16:360:2:8208>
@@ -4845,7 +4367,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8208" ;
     skos:prefLabel "Pulau Taliabu"@eng-Latn ;
-    wdata:q7200235 "ID8208" ;
 .
 
 <urn:mdciii:1603:16:360:2:8271>
@@ -4854,7 +4375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8271" ;
     skos:prefLabel "Kota Ternate"@eng-Latn ;
-    wdata:q7200235 "ID8271" ;
 .
 
 <urn:mdciii:1603:16:360:2:8272>
@@ -4863,7 +4383,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:8272" ;
     skos:prefLabel "Kota Tidore Kepulauan"@eng-Latn ;
-    wdata:q7200235 "ID8272" ;
 .
 
 <urn:mdciii:1603:16:360:2:9101>
@@ -4872,7 +4391,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9101" ;
     skos:prefLabel "Fakfak"@eng-Latn ;
-    wdata:q7200235 "ID9101" ;
 .
 
 <urn:mdciii:1603:16:360:2:9102>
@@ -4881,7 +4399,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9102" ;
     skos:prefLabel "Kaimana"@eng-Latn ;
-    wdata:q7200235 "ID9102" ;
 .
 
 <urn:mdciii:1603:16:360:2:9103>
@@ -4890,7 +4407,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9103" ;
     skos:prefLabel "Teluk Wondama"@eng-Latn ;
-    wdata:q7200235 "ID9103" ;
 .
 
 <urn:mdciii:1603:16:360:2:9104>
@@ -4899,7 +4415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9104" ;
     skos:prefLabel "Teluk Bintuni"@eng-Latn ;
-    wdata:q7200235 "ID9104" ;
 .
 
 <urn:mdciii:1603:16:360:2:9105>
@@ -4908,7 +4423,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9105" ;
     skos:prefLabel "Manokwari"@eng-Latn ;
-    wdata:q7200235 "ID9105" ;
 .
 
 <urn:mdciii:1603:16:360:2:9106>
@@ -4917,7 +4431,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9106" ;
     skos:prefLabel "Sorong Selatan"@eng-Latn ;
-    wdata:q7200235 "ID9106" ;
 .
 
 <urn:mdciii:1603:16:360:2:9107>
@@ -4926,7 +4439,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9107" ;
     skos:prefLabel "Sorong"@eng-Latn ;
-    wdata:q7200235 "ID9107" ;
 .
 
 <urn:mdciii:1603:16:360:2:9108>
@@ -4935,7 +4447,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9108" ;
     skos:prefLabel "Raja Ampat"@eng-Latn ;
-    wdata:q7200235 "ID9108" ;
 .
 
 <urn:mdciii:1603:16:360:2:9109>
@@ -4944,7 +4455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9109" ;
     skos:prefLabel "Tambrauw"@eng-Latn ;
-    wdata:q7200235 "ID9109" ;
 .
 
 <urn:mdciii:1603:16:360:2:9110>
@@ -4953,7 +4463,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9110" ;
     skos:prefLabel "Maybrat"@eng-Latn ;
-    wdata:q7200235 "ID9110" ;
 .
 
 <urn:mdciii:1603:16:360:2:9111>
@@ -4962,7 +4471,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9111" ;
     skos:prefLabel "Manokwari Selatan"@eng-Latn ;
-    wdata:q7200235 "ID9111" ;
 .
 
 <urn:mdciii:1603:16:360:2:9112>
@@ -4971,7 +4479,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9112" ;
     skos:prefLabel "Pegunungan Arfak"@eng-Latn ;
-    wdata:q7200235 "ID9112" ;
 .
 
 <urn:mdciii:1603:16:360:2:9171>
@@ -4980,7 +4487,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9171" ;
     skos:prefLabel "Kota Sorong"@eng-Latn ;
-    wdata:q7200235 "ID9171" ;
 .
 
 <urn:mdciii:1603:16:360:2:9401>
@@ -4989,7 +4495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9401" ;
     skos:prefLabel "Merauke"@eng-Latn ;
-    wdata:q7200235 "ID9401" ;
 .
 
 <urn:mdciii:1603:16:360:2:9402>
@@ -4998,7 +4503,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9402" ;
     skos:prefLabel "Jayawijaya"@eng-Latn ;
-    wdata:q7200235 "ID9402" ;
 .
 
 <urn:mdciii:1603:16:360:2:9403>
@@ -5007,7 +4511,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9403" ;
     skos:prefLabel "Jayapura"@eng-Latn ;
-    wdata:q7200235 "ID9403" ;
 .
 
 <urn:mdciii:1603:16:360:2:9404>
@@ -5016,7 +4519,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9404" ;
     skos:prefLabel "Nabire"@eng-Latn ;
-    wdata:q7200235 "ID9404" ;
 .
 
 <urn:mdciii:1603:16:360:2:9408>
@@ -5025,7 +4527,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9408" ;
     skos:prefLabel "Kepulauan Yapen"@eng-Latn ;
-    wdata:q7200235 "ID9408" ;
 .
 
 <urn:mdciii:1603:16:360:2:9409>
@@ -5034,7 +4535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9409" ;
     skos:prefLabel "Biak Numfor"@eng-Latn ;
-    wdata:q7200235 "ID9409" ;
 .
 
 <urn:mdciii:1603:16:360:2:9410>
@@ -5043,7 +4543,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9410" ;
     skos:prefLabel "Paniai"@eng-Latn ;
-    wdata:q7200235 "ID9410" ;
 .
 
 <urn:mdciii:1603:16:360:2:9411>
@@ -5052,7 +4551,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9411" ;
     skos:prefLabel "Puncak Jaya"@eng-Latn ;
-    wdata:q7200235 "ID9411" ;
 .
 
 <urn:mdciii:1603:16:360:2:9412>
@@ -5061,7 +4559,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9412" ;
     skos:prefLabel "Mimika"@eng-Latn ;
-    wdata:q7200235 "ID9412" ;
 .
 
 <urn:mdciii:1603:16:360:2:9413>
@@ -5070,7 +4567,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9413" ;
     skos:prefLabel "Boven Digoel"@eng-Latn ;
-    wdata:q7200235 "ID9413" ;
 .
 
 <urn:mdciii:1603:16:360:2:9414>
@@ -5079,7 +4575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9414" ;
     skos:prefLabel "Mappi"@eng-Latn ;
-    wdata:q7200235 "ID9414" ;
 .
 
 <urn:mdciii:1603:16:360:2:9415>
@@ -5088,7 +4583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9415" ;
     skos:prefLabel "Asmat"@eng-Latn ;
-    wdata:q7200235 "ID9415" ;
 .
 
 <urn:mdciii:1603:16:360:2:9416>
@@ -5097,7 +4591,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9416" ;
     skos:prefLabel "Yahukimo"@eng-Latn ;
-    wdata:q7200235 "ID9416" ;
 .
 
 <urn:mdciii:1603:16:360:2:9417>
@@ -5106,7 +4599,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9417" ;
     skos:prefLabel "Pegunungan Bintang"@eng-Latn ;
-    wdata:q7200235 "ID9417" ;
 .
 
 <urn:mdciii:1603:16:360:2:9418>
@@ -5115,7 +4607,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9418" ;
     skos:prefLabel "Tolikara"@eng-Latn ;
-    wdata:q7200235 "ID9418" ;
 .
 
 <urn:mdciii:1603:16:360:2:9419>
@@ -5124,7 +4615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9419" ;
     skos:prefLabel "Sarmi"@eng-Latn ;
-    wdata:q7200235 "ID9419" ;
 .
 
 <urn:mdciii:1603:16:360:2:9420>
@@ -5133,7 +4623,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9420" ;
     skos:prefLabel "Keerom"@eng-Latn ;
-    wdata:q7200235 "ID9420" ;
 .
 
 <urn:mdciii:1603:16:360:2:9426>
@@ -5142,7 +4631,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9426" ;
     skos:prefLabel "Waropen"@eng-Latn ;
-    wdata:q7200235 "ID9426" ;
 .
 
 <urn:mdciii:1603:16:360:2:9427>
@@ -5151,7 +4639,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9427" ;
     skos:prefLabel "Supiori"@eng-Latn ;
-    wdata:q7200235 "ID9427" ;
 .
 
 <urn:mdciii:1603:16:360:2:9428>
@@ -5160,7 +4647,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9428" ;
     skos:prefLabel "Mamberamo Raya"@eng-Latn ;
-    wdata:q7200235 "ID9428" ;
 .
 
 <urn:mdciii:1603:16:360:2:9429>
@@ -5169,7 +4655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9429" ;
     skos:prefLabel "Nduga"@eng-Latn ;
-    wdata:q7200235 "ID9429" ;
 .
 
 <urn:mdciii:1603:16:360:2:9430>
@@ -5178,7 +4663,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9430" ;
     skos:prefLabel "Lanny Jaya"@eng-Latn ;
-    wdata:q7200235 "ID9430" ;
 .
 
 <urn:mdciii:1603:16:360:2:9431>
@@ -5187,7 +4671,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9431" ;
     skos:prefLabel "Mamberamo Tengah"@eng-Latn ;
-    wdata:q7200235 "ID9431" ;
 .
 
 <urn:mdciii:1603:16:360:2:9432>
@@ -5196,7 +4679,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9432" ;
     skos:prefLabel "Yalimo"@eng-Latn ;
-    wdata:q7200235 "ID9432" ;
 .
 
 <urn:mdciii:1603:16:360:2:9433>
@@ -5205,7 +4687,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9433" ;
     skos:prefLabel "Puncak"@eng-Latn ;
-    wdata:q7200235 "ID9433" ;
 .
 
 <urn:mdciii:1603:16:360:2:9434>
@@ -5214,7 +4695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9434" ;
     skos:prefLabel "Dogiyai"@eng-Latn ;
-    wdata:q7200235 "ID9434" ;
 .
 
 <urn:mdciii:1603:16:360:2:9435>
@@ -5223,7 +4703,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9435" ;
     skos:prefLabel "Intan Jaya"@eng-Latn ;
-    wdata:q7200235 "ID9435" ;
 .
 
 <urn:mdciii:1603:16:360:2:9436>
@@ -5232,7 +4711,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9436" ;
     skos:prefLabel "Deiyai"@eng-Latn ;
-    wdata:q7200235 "ID9436" ;
 .
 
 <urn:mdciii:1603:16:360:2:9471>
@@ -5241,6 +4719,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:360:2:9471" ;
     skos:prefLabel "Kota Jayapura"@eng-Latn ;
-    wdata:q7200235 "ID9471" ;
 .
 
